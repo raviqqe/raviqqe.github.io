@@ -36,8 +36,6 @@
 - Clojure (learning)
 - Ruby (tooling)
 - TypeScript
-
-
 - にほんご
 - English
 
