@@ -1,0 +1,8 @@
+exclude: ["README.md"]
+title: Yota Toyama
+author:
+  name: Yota Toyama
+  email: raviqqe@gmail.com
+  github: raviqqe
+  twitter: raviqqe
+markdown: kramdown
