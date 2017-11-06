@@ -1,36 +1,59 @@
 # Yota Toyama
 
-- MRU Languages
+## Works
 
-  - Japanese
-  - English
-  - Python
-  - Go
+- [Tisp](https://github.com/tisp-lang/tisp)
 
-- Works
+  The timeless programming language
 
-  - [Tisp](https://github.com/tisp-lang/tisp)
+- [code2d](https://code2d.net)
 
-    The timeless programming language
+  Make your todo's done.
 
-  - [code2d](https://code2d.net)
+- [bstie](https://github.com/raviqqe/bstie)
 
-    Make your todo's done.
+  Summon your daemon.
 
-- Faves
+- [block-is-hash](https://github.com/raviqqe/block-is-hash)
 
-  - [Ratatype](http://www.ratatype.com/)
+  Block is hash. Ruby is Lisp.
 
-    The best ever typing tutorial & game
+- [vim-non-blank](https://github.com/raviqqe/vim-non-blank)
 
-  - [ZType](http://zty.pe)
+  Remove all extra blanks on write.
 
-    A cool typing game of shooting
+- [shakyo](https://github.com/raviqqe/shakyo)
 
-  - [Amantia design](http://amanita-design.net/)
+  Code as typing game.
 
-    Adventure games in cryptic worlds
+## Languages
 
-  - [Nyan cat](http://www.nyan.cat/)
+- Python
+- Go
+- C
+- Rust
+- Haskell
+- Clojure (learning)
+- Ruby (tooling)
+- TypeScript
 
-    With max volume
+- にほんご
+- English
+
+## Faves
+
+- [Ratatype](http://www.ratatype.com/)
+
+  The best ever typing tutorial & game
+
+- [ZType](http://zty.pe)
+
+  A cool typing game of shooting
+
+- [Amantia design](http://amanita-design.net/)
+
+  Adventure games in cryptic worlds
+
+- [Nyan cat](http://www.nyan.cat/)
+
+  With max volume
