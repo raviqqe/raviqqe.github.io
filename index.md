@@ -55,7 +55,7 @@
 
   A cool typing game of shooting
 
-- [Amantia design](http://amanita-design.net/)
+- [Amanita design](http://amanita-design.net/)
 
   Adventure games in cryptic worlds
 
