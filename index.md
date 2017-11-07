@@ -1,5 +1,11 @@
 # Yota Toyama
 
+[![github](https://img.shields.io/badge/github-raviqqe-red.svg)](https://github.com/raviqqe)
+[![twitter](https://img.shields.io/badge/twitter-raviqqe-blue.svg)](https://github.com/raviqqe)
+[![editor](https://img.shields.io/badge/editor-vim-brightgreen.svg)](https://github.com/neovim/neovim)
+![status](https://img.shields.io/badge/status-alive-green.svg)
+![dependencies](https://img.shields.io/badge/dependencies-coffee-lightgrey.svg)
+
 ## Works
 
 - [Tisp](https://github.com/tisp-lang/tisp)
