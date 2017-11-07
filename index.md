@@ -34,7 +34,7 @@ Yota Toyama is a software engineer.
 
   Block is hash. Ruby is Lisp.
 
-- [vim-non-blank](https://github.com/raviqqe/vim-non-blank)
+- [vim-nonblank](https://github.com/raviqqe/vim-nonblank)
 
   Remove all extra blanks on write.
 
