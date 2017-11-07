@@ -1,15 +1,15 @@
 variable "domain" {}
 
-variable "certificate" {
-  default = "arn:aws:acm:us-east-1:515821172331:certificate/3160c15b-1e40-4eb1-bab6-61efe5ddc73c"
-}
-
 variable "origin" {
   default = "raviqqe.github.io"
 }
 
 provider "aws" {
   region = "us-east-1"
+}
+
+data "aws_acm_certificate" "c" {
+  domain = "${var.domain}"
 }
 
 resource "aws_cloudfront_distribution" "d" {
@@ -58,7 +58,7 @@ resource "aws_cloudfront_distribution" "d" {
   }
 
   viewer_certificate {
-    acm_certificate_arn = "${var.certificate}"
+    acm_certificate_arn = "${data.aws_acm_certificate.c.arn}"
     ssl_support_method  = "sni-only"
   }
 }
