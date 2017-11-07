@@ -42,16 +42,27 @@ Yota Toyama is a software engineer.
 
   Code as typing game.
 
-## Languages
+## Technology Stack
+
+### Tools
+
+- Google Cloud Platform
+- Firebase
+- Terraform
+- React / Redux
+- Node.js
+- TnesorFlow
+
+### Languages
 
 - Python
 - Go
-- C
+- TypeScript
 - Rust
+- C
 - Haskell
 - Clojure (learning)
 - Ruby (tooling)
-- TypeScript
 - にほんご
 - English
 
