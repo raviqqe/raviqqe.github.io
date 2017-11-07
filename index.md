@@ -14,7 +14,7 @@ Yota Toyama is a software engineer.
 - [JITEC certificates](https://www.jitec.ipa.go.jp/2_01english/02examcategories.html)
   - Database
   - Security
-- High availability
+- Highly available
 
 ## Works
 
