@@ -50,6 +50,7 @@ Yota Toyama is a software engineer.
 - Firebase
 - Terraform
 - React / Redux
+- React Native
 - Node.js
 - TnesorFlow
 
