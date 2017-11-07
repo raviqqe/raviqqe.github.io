@@ -62,3 +62,7 @@
 - [Nyan cat](http://www.nyan.cat/)
 
   With max volume
+
+- [The Unlicense](https://unlicense.org)
+
+  Set your code free
