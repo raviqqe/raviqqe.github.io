@@ -24,7 +24,7 @@ Yota Toyama is a software engineer.
 
 - [code2d](https://code2d.net)
 
-  Make your todo's done.
+  Make your todos done.
 
 - [bstie](https://github.com/raviqqe/bstie)
 
