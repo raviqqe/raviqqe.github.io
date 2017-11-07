@@ -47,14 +47,6 @@
 
 ## Faves
 
-- [Ratatype](http://www.ratatype.com/)
-
-  The best ever typing tutorial & game
-
-- [ZType](http://zty.pe)
-
-  A cool typing game of shooting
-
 - [Amanita design](http://amanita-design.net/)
 
   Adventure games in cryptic worlds
@@ -66,3 +58,11 @@
 - [The Unlicense](https://unlicense.org)
 
   Set your code free
+
+- [Ratatype](http://www.ratatype.com/)
+
+  The best ever typing tutorial & game
+
+- [ZType](http://zty.pe)
+
+  A cool typing game of shooting
