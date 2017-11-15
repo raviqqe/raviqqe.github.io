@@ -65,6 +65,10 @@ It is a software engineer.
 
 ## Faves
 
+- [WebAssembly](http://webassembly.org)
+
+  The next JVM
+
 - [Amanita design](http://amanita-design.net/)
 
   Adventure games in cryptic worlds
