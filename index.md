@@ -6,7 +6,7 @@
 ![status](https://img.shields.io/badge/status-alive-green.svg?style=flat-square)
 ![dependencies](https://img.shields.io/badge/dependencies-coffee-lightgrey.svg?style=flat-square)
 
-Yota Toyama is a software engineer.
+It is a software engineer.
 
 ## Features
 
