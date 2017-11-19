@@ -42,3 +42,8 @@ task default: 'favicon.png' do
     --nameservers #{name_servers}
   ].join ' '
 end
+
+task :lint do
+  sh 'go get -u github.com/raviqqe/liche'
+  sh "liche -v #{Dir.glob('**/*.md').join ' '}"
+end
