@@ -26,6 +26,10 @@ It is a software engineer.
 
   Make your todos done.
 
+- [liche](https://github.com/raviqqe/liche)
+
+  Fast link checker for Markdown and HTML
+
 - [bstie](https://github.com/raviqqe/bstie)
 
   Summon your daemon.
