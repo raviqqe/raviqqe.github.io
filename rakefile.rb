@@ -1,6 +1,7 @@
 require 'xml-dsl'
 
 DOMAIN = 'raviqqe.com'.freeze
+ORIGIN = 'raviqqe.github.io'.freeze
 
 def points(*points)
   points.map do |x, y|
@@ -29,7 +30,7 @@ end
 
 task default: 'favicon.png' do
   sh 'terraform init'
-  sh "terraform apply -auto-approve -var domain=#{DOMAIN}"
+  sh "terraform apply -auto-approve -var domain=#{DOMAIN} -var origin=#{ORIGIN}"
 
   name_servers = `terraform output name_servers`
                  .split(/[,\s]+/)
