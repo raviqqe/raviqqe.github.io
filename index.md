@@ -44,7 +44,7 @@ It is a software engineer.
 - React / Redux
 - React Native
 - Node.js
-- TnesorFlow
+- TensorFlow
 
 ### Languages
 
