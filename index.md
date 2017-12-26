@@ -51,11 +51,11 @@ It is a software engineer.
 - Python
 - Go
 - TypeScript
+- Ruby (mostly for Rake)
 - Rust
-- C
 - Haskell
 - Clojure (learning)
-- Ruby (tooling)
+- C
 - にほんご
 - English
 
