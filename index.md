@@ -79,7 +79,7 @@ It is a software engineer.
 
 - [Ratatype](http://www.ratatype.com/)
 
-  The best ever typing tutorial & game
+  The best typing tutorial & game ever
 
 - [ZType](http://zty.pe)
 
