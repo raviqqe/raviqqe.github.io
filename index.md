@@ -8,14 +8,6 @@
 
 It is a software engineer.
 
-## Features
-
-- Full-stack development
-- [JITEC certificates](https://www.jitec.ipa.go.jp/2_01english/02examcategories.html)
-  - Database
-  - Security
-- Highly available
-
 ## Works
 
 - [Coel](https://github.com/coel-lang/coel)
