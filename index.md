@@ -18,9 +18,9 @@ It is a software engineer.
 
 ## Works
 
-- [Tisp](https://github.com/tisp-lang/tisp)
+- [Coel](https://github.com/coel-lang/coel)
 
-  The timeless programming language
+  The functional programming language
 
 - [code2d](https://code2d.net)
 
