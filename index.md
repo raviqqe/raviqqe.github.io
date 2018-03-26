@@ -14,7 +14,7 @@ It is a software engineer.
 
   The functional programming language
 
-- [code2d](https://code2d.net)
+- [tasks](https://tasks.code2d.net)
 
   Make your todos done.
 
