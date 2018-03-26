@@ -50,9 +50,9 @@ It is a software engineer.
 
 - Python
 - Go
+- Rust
 - TypeScript
 - Ruby (mostly for Rake)
-- Rust
 - Haskell
 - Clojure (learning)
 - C
