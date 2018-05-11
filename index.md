@@ -10,17 +10,21 @@ It is a software engineer.
 
 ## Works
 
-- [Coel](https://github.com/coel-lang/coel)
+- [Cloe](https://github.com/cloe-lang/cloe)
 
-  The functional programming language
+  The *timeless* functional programming language
 
 - [tasks](https://tasks.code2d.net)
 
   Make your todos done.
 
+- [muffet](https://github.com/raviqqe/muffet)
+
+  Fast website link checker in Go
+
 - [liche](https://github.com/raviqqe/liche)
 
-  Fast link checker for Markdown and HTML
+  Fast link checker for local Markdown files
 
 - [bstie](https://github.com/raviqqe/bstie)
 
