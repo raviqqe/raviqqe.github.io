@@ -65,7 +65,7 @@ It is a software engineer.
 
 ## Faves
 
-- [WebAssembly](http://webassembly.org)
+- [WebAssembly](https://webassembly.org)
 
   The next JVM
 
