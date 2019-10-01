@@ -4,7 +4,7 @@
 [![twitter](https://img.shields.io/badge/twitter-raviqqe-blue.svg?style=flat-square)](https://twitter.com/raviqqe)
 [![editor](https://img.shields.io/badge/editor-neovim-brightgreen.svg?style=flat-square)](https://github.com/neovim/neovim)
 ![status](https://img.shields.io/badge/status-alive-green.svg?style=flat-square)
-![dependency](https://img.shields.io/badge/dependencies-coffee-lightgrey.svg?style=flat-square)
+![dependency](https://img.shields.io/badge/dependency-coffee-lightgrey.svg?style=flat-square)
 
 It is a software engineer.
 
