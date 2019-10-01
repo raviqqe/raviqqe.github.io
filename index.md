@@ -52,6 +52,7 @@ It is a software engineer.
 - Google Cloud Platform
 - Helm
 - Kubernetes
+- Neovim
 - Node.js
 - React / Redux
 - Terraform
