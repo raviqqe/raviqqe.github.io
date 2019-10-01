@@ -1,7 +1,6 @@
-require 'xml-dsl'
+# frozen_string_literal: true
 
-DOMAIN = 'raviqqe.com'.freeze
-ORIGIN = 'raviqqe.github.io'.freeze
+require 'xml-dsl'
 
 def points(*points)
   points.map do |x, y|
@@ -23,26 +22,12 @@ file 'favicon.png' do |t|
   File.write 'favicon.svg', source
 
   sh %W[inkscape
-        --export-width 16 --export-height 16
+        --export-width 32 --export-height 32
         --export-png #{t.name}
         favicon.svg].join ' '
 end
 
-task default: 'favicon.png' do
-  sh 'terraform init'
-  sh "terraform apply -auto-approve -var domain=#{DOMAIN} -var origin=#{ORIGIN}"
-
-  name_servers = `terraform output name_servers`
-                 .split(/[,\s]+/)
-                 .map { |s| 'Name=' + s }
-                 .join ' '
-
-  sh %W[
-    aws route53domains update-domain-nameservers
-    --domain #{DOMAIN}
-    --nameservers #{name_servers}
-  ].join ' '
-end
+task default: 'favicon.png'
 
 task :lint do
   sh 'go get -u github.com/raviqqe/liche'
