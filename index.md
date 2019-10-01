@@ -10,19 +10,19 @@ It is a software engineer.
 
 ## Works
 
-- [Cloe](https://github.com/cloe-lang/cloe)
+- [Cloe](https://cloe-lang.org) ([GitHub](https://github.com/cloe-lang/cloe))
 
   The _timeless_ functional programming language
 
-- [BeDone](https://tasks.code2d.org)
+- [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
   Simple task manager with multi-project support
 
-- [SelfTalk](https://notes.code2d.org)
+- [SelfTalk](https://notes.code2d.org) ([GitHub](https://github.com/raviqqe/self-talk))
 
   Note taking app which looks like SMS
 
-- [Pomodoro](https://pomodoro.code2d.org)
+- [Pomodoro](https://pomodoro.code2d.org) ([GitHub](https://github.com/raviqqe/pomodoro))
 
   Pomodoro timer with performance tracking
 
