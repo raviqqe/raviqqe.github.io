@@ -2,7 +2,7 @@
 
 [![github](https://img.shields.io/badge/github-raviqqe-red.svg?style=flat-square)](https://github.com/raviqqe)
 [![twitter](https://img.shields.io/badge/twitter-raviqqe-blue.svg?style=flat-square)](https://twitter.com/raviqqe)
-[![editor](https://img.shields.io/badge/editor-vim-brightgreen.svg?style=flat-square)](https://github.com/neovim/neovim)
+[![editor](https://img.shields.io/badge/editor-neovim-brightgreen.svg?style=flat-square)](https://github.com/neovim/neovim)
 ![status](https://img.shields.io/badge/status-alive-green.svg?style=flat-square)
 ![dependency](https://img.shields.io/badge/dependencies-coffee-lightgrey.svg?style=flat-square)
 
@@ -14,15 +14,15 @@ It is a software engineer.
 
   The _timeless_ functional programming language
 
-- [BeDone](https://tasks.code2d.net)
+- [BeDone](https://tasks.code2d.org)
 
   Simple task manager with multi-project support
 
-- [SelfTalk](https://notes.code2d.net)
+- [SelfTalk](https://notes.code2d.org)
 
   Note taking app which looks like SMS
 
-- [Pomodoro](https://pomodoro.code2d.net)
+- [Pomodoro](https://pomodoro.code2d.org)
 
   Pomodoro timer with performance tracking
 
@@ -54,6 +54,7 @@ It is a software engineer.
 - Kubernetes
 - Neovim
 - Node.js
+- PostgreSQL
 - React / Redux
 - Terraform
 
