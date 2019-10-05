@@ -1,10 +1,4 @@
-# My portfolio
-
-## Publishment
-
-```sh
-rake
-```
+# My page
 
 ## License
 
