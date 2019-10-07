@@ -60,6 +60,14 @@ It is a software engineer.
 
 ## Faves
 
+- [Arch Linux](https://www.archlinux.org)
+
+  The minimal Linux distro
+
+- [FreeBSD](https://www.freebsd.org)
+
+  The real UNIX
+
 - [WebAssembly](https://webassembly.org)
 
   The next JVM
