@@ -30,6 +30,10 @@ It is a software engineer.
 
   Fast website link checker in Go
 
+- [gherkin2markdown](https://github.com/raviqqe/gherkin2markdown)
+
+  Gherkin to Markdown converter
+
 - [bstie](https://github.com/raviqqe/bstie)
 
   Summon your daemon.
