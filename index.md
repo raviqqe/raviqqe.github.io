@@ -10,6 +10,10 @@ It is a software engineer.
 
 ## Works
 
+- [Sloth](https://github.com/raviqqe/sloth) ([GitHub](https://github.com/raviqqe/sloth))
+
+  An OCaml-like functional programming language
+
 - [Cloe](https://cloe-lang.org) ([GitHub](https://github.com/cloe-lang/cloe))
 
   The _timeless_ functional programming language
