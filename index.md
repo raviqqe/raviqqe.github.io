@@ -10,7 +10,7 @@ It is a software engineer.
 
 ## Works
 
-- [Sloth](https://github.com/raviqqe/sloth) ([GitHub](https://github.com/raviqqe/sloth))
+- [Ein](https://github.com/raviqqe/ein) ([GitHub](https://github.com/raviqqe/ein))
 
   An OCaml-like functional programming language
 
