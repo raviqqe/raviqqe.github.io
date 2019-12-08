@@ -12,7 +12,7 @@ It is a software engineer.
 
 - [Ein](https://github.com/raviqqe/ein) ([GitHub](https://github.com/raviqqe/ein))
 
-  An OCaml-like functional programming language
+  The _deterministic_ functional programming language
 
 - [Cloe](https://cloe-lang.org) ([GitHub](https://github.com/cloe-lang/cloe))
 
