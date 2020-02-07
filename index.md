@@ -80,7 +80,7 @@ It is a software engineer.
 
   The next JVM
 
-- [Amanita design](http://amanita-design.net/)
+- [Amanita design](https://amanita-design.net/)
 
   Adventure games in cryptic worlds
 
@@ -92,10 +92,10 @@ It is a software engineer.
 
   Set your code free
 
-- [Ratatype](http://www.ratatype.com/)
+- [Ratatype](https://www.ratatype.com/)
 
   The best typing tutorial & game ever
 
-- [ZType](http://zty.pe)
+- [ZType](https://zty.pe)
 
   A cool typing game of shooting
