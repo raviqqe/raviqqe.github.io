@@ -18,6 +18,10 @@ It is a software engineer.
 
   The _timeless_ functional programming language
 
+- [ssf](https://github.com/raviqqe/ssf)
+
+  The structurally-typed strict functional core language
+
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
   Simple task manager with multi-project support
