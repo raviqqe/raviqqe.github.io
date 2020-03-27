@@ -4,6 +4,6 @@
   "icons": [{ "src": "icon.svg", "sizes": "4242x4242" }],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "black",
+  "theme_color": "grey",
   "background_color": "white"
 }
