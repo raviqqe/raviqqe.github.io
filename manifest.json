@@ -1,0 +1,9 @@
+{
+  "short_name": "Yota Toyama",
+  "name": "Yota Toyama",
+  "icons": [{ "src": "icon.svg", "sizes": "4242x4242" }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "black",
+  "background_color": "white"
+}
