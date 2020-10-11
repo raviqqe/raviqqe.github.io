@@ -38,6 +38,10 @@ It is a software engineer.
 
   Fast website link checker in Go
 
+- [rnm](https://github.com/raviqqe/rnm)
+
+  Yet another [codemod](https://github.com/facebook/codemod) alternative
+
 - [gherkin2markdown](https://github.com/raviqqe/gherkin2markdown)
 
   Gherkin to Markdown converter
