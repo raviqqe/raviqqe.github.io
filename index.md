@@ -58,11 +58,11 @@ It is a software engineer.
 
 ### Languages
 
-- Go
-- Haskell
-- Python
-- Rust
 - TypeScript
+- Rust
+- Go
+- Python
+- Haskell
 - English
 - にほんご
 
