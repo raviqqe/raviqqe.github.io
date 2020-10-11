@@ -68,15 +68,15 @@ It is a software engineer.
 
 ### Tools
 
-- Firebase
-- Google Cloud Platform
-- Helm
 - Kubernetes
-- Neovim
+- Helm
+- Google Cloud Platform
 - Node.js
+- React
 - PostgreSQL
-- React / Redux
+- Firebase
 - Terraform
+- Neovim
 
 ## Faves
 
