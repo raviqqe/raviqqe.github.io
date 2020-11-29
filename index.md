@@ -46,6 +46,10 @@ It is a software engineer.
 
   Gherkin to Markdown converter
 
+- [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
+
+  Boehm GC integration for Rust
+
 - [bstie](https://github.com/raviqqe/bstie)
 
   Summon your daemon.
