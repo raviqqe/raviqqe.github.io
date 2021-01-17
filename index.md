@@ -22,6 +22,10 @@ It is a software engineer.
 
   The structurally-typed strict functional core language
 
+- [F--](https://github.com/raviqqe/fmm)
+
+  The more functional variant of C programming language
+
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
   Simple task manager with multi-project support
