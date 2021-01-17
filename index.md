@@ -22,7 +22,7 @@ It is a software engineer.
 
   The structurally-typed strict functional core language
 
-- [F--](https://github.com/raviqqe/fmm)
+- [F\-\-](https://github.com/raviqqe/fmm)
 
   The more functional variant of C programming language
 
