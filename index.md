@@ -10,7 +10,7 @@ It is a software engineer.
 
 ## Works
 
-- [Ein](https://github.com/ein-lang/ein) ([GitHub](https://github.com/ein-lang/ein))
+- [Ein](https://ein-lang.org) ([GitHub](https://github.com/ein-lang/ein))
 
   The _deterministic_ functional programming language
 
