@@ -10,6 +10,10 @@ It is a software engineer.
 
 ## Works
 
+- [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
+
+  This is a pen.
+
 - [Ein](https://ein-lang.org) ([GitHub](https://github.com/ein-lang/ein))
 
   The _deterministic_ functional programming language
