@@ -30,6 +30,10 @@ It is a software engineer.
 
   The more functional variant of C programming language
 
+- [Turtle](https://github.com/raviqqe/turtle-build)
+
+  Ninja-compatible build system for high-level programming languages
+
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
   Simple task manager with multi-project support
