@@ -124,10 +124,6 @@ It is a software engineer.
 
   My favorite song
 
-- [Ratatype](https://www.ratatype.com/)
-
-  The best typing tutorial & game ever
-
 - [ZType](https://zty.pe)
 
   A cool typing game of shooting
