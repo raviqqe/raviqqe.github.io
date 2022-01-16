@@ -112,17 +112,17 @@ It is a software engineer.
 
   The next JVM
 
+- [The Unlicense](https://unlicense.org)
+
+  Set your code free
+
 - [Amanita design](https://amanita-design.net/)
 
   Adventure games in cryptic worlds
 
-- [Nyan cat](http://www.nyan.cat/)
+- [Nyan cat](https://www.nyan.cat/)
 
-  With max volume
-
-- [The Unlicense](https://unlicense.org)
-
-  Set your code free
+  My favorite song
 
 - [Ratatype](https://www.ratatype.com/)
 
