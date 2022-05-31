@@ -18,7 +18,7 @@ It is a software engineer.
 
   The _deterministic_ functional programming language
 
-- [Cloe](https://github.com/cloe-lang/cloe)
+- [Cloe](https://cloe-lang.org) ([GitHub](https://github.com/cloe-lang/cloe))
 
   The _timeless_ functional programming language
 
