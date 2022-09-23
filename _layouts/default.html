@@ -19,6 +19,10 @@
     <style>
       @import url("https://fonts.googleapis.com/css?family=Noto+Sans");
 
+      html[theme="dark-mode"] {
+        filter: invert(1) hue-rotate(180deg);
+      }
+
       body {
         color: #333;
         font: 16px "Noto Sans", sans-serif;
