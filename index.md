@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Yota Toyama
 
 [![github](https://img.shields.io/badge/github-raviqqe-red.svg?style=flat-square)](https://github.com/raviqqe)

@@ -1,8 +1,7 @@
-exclude: ["README.md"]
 title: Yota Toyama
-author:
-  name: Yota Toyama
-  email: raviqqe@gmail.com
-  github: raviqqe
-  twitter: raviqqe
-markdown: kramdown
+description: It is a software engineer.
+email: raviqqe@gmail.com
+twitter_username: raviqqe
+github_username: raviqqe
+exclude:
+  - README.md
