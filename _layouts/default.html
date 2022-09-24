@@ -23,21 +23,6 @@
         --invert: invert(1) hue-rotate(180deg);
       }
 
-      @media (prefers-color-scheme: dark) {
-        html {
-          filter: var(--invert);
-        }
-
-        img {
-          filter: var(--invert);
-        }
-
-        a,
-        a:visited {
-          color: deepskyblue;
-        }
-      }
-
       body {
         color: #333;
         font: 16px "Noto Sans", sans-serif;
@@ -54,6 +39,21 @@
 
       a:hover {
         text-decoration: underline;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        html {
+          filter: var(--invert);
+        }
+
+        img {
+          filter: var(--invert);
+        }
+
+        a,
+        a:visited {
+          color: salmon;
+        }
       }
     </style>
   </head>
