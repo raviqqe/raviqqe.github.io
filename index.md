@@ -60,7 +60,7 @@ It is a software engineer.
 
 - [rnm](https://github.com/raviqqe/rnm)
 
-  Yet another [codemod](https://github.com/facebook/codemod) alternative
+  Yet another [fastmod](https://github.com/facebookincubator/fastmod) alternative
 
 - [gherkin2markdown](https://github.com/raviqqe/gherkin2markdown)
 
