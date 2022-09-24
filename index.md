@@ -38,6 +38,10 @@ It is a software engineer.
 
   Ninja-compatible build system for high-level programming languages
 
+- [Melior](https://raviqqe.github.io/melior/melior/) ([GitHub](https://github.com/raviqqe/melior))
+
+  The rustic MLIR bindings for Rust
+
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
   Simple task manager with multi-project support
