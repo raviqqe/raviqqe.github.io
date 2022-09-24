@@ -19,10 +19,6 @@
     <style>
       @import url("https://fonts.googleapis.com/css?family=Noto+Sans");
 
-      :root {
-        --invert: invert(1) hue-rotate(180deg);
-      }
-
       body {
         color: #333;
         font: 16px "Noto Sans", sans-serif;
@@ -42,12 +38,9 @@
       }
 
       @media (prefers-color-scheme: dark) {
-        html {
-          filter: var(--invert);
-        }
-
-        img {
-          filter: var(--invert);
+        body {
+          color: #eee;
+          background-color: black;
         }
 
         a,
