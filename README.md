@@ -1,4 +1,4 @@
-# My page
+# My profile
 
 ## License
 
