@@ -8,6 +8,7 @@ layout: default
 [![twitter](https://img.shields.io/badge/twitter-raviqqe-blue.svg?style=flat-square)](https://twitter.com/raviqqe)
 [![editor](https://img.shields.io/badge/editor-neovim-brightgreen.svg?style=flat-square)](https://neovim.io/)
 [![shell](https://img.shields.io/badge/shell-zsh-rebeccapurple.svg?style=flat-square)](https://zsh.sourceforge.io/)
+[![terminal](https://img.shields.io/badge/terminal-alacritty-darkorange.svg?style=flat-square)](https://alacritty.org/)
 
 It is a software engineer.
 
