@@ -8,7 +8,6 @@ layout: default
 [![twitter](https://img.shields.io/badge/twitter-raviqqe-blue.svg?style=flat-square)](https://twitter.com/raviqqe)
 [![editor](https://img.shields.io/badge/editor-neovim-brightgreen.svg?style=flat-square)](https://neovim.io/)
 [![shell](https://img.shields.io/badge/shell-zsh-rebeccapurple.svg?style=flat-square)](https://zsh.sourceforge.io/)
-[![dependency](https://img.shields.io/badge/dependency-coffee-chocolate.svg?style=flat-square)](https://www.monsterenergy.com/)
 
 It is a software engineer.
 
