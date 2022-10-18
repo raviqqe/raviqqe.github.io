@@ -62,6 +62,10 @@ It is a software engineer.
 
   Yet another [fastmod](https://github.com/facebookincubator/fastmod) alternative
 
+- [hamt-rs](https://github.com/raviqqe/hamt-rs)
+
+  Implementation of Hash Array Mapped Trie (HAMT) in Rust
+
 - [gherkin2markdown](https://github.com/raviqqe/gherkin2markdown)
 
   Gherkin to Markdown converter
