@@ -42,6 +42,10 @@ It is a software engineer.
 
   The rustic MLIR bindings for Rust
 
+- [InfiniDict](https://dictionary.code2d.org/)
+
+  Fast English dictionary for English learners
+
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
   Simple task manager with multi-project support
