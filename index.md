@@ -18,19 +18,7 @@ It is a software engineer.
 
 - [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
 
-  This is a pen.
-
-- [Ein](https://ein-lang.org) ([GitHub](https://github.com/ein-lang/ein))
-
-  The _deterministic_ functional programming language
-
-- [Cloe](https://cloe-lang.org) ([GitHub](https://github.com/cloe-lang/cloe))
-
-  The _timeless_ functional programming language
-
-- [ssf](https://github.com/raviqqe/ssf)
-
-  The structurally-typed strict functional core language
+  The programming language for scalable software development
 
 - [F\-\-](https://github.com/raviqqe/fmm)
 
@@ -51,6 +39,18 @@ It is a software engineer.
 - [parsdown](https://github.com/raviqqe/parsdown)
 
   Parser combinator library for hierarchical tokens
+
+- [Ein](https://ein-lang.org) ([GitHub](https://github.com/ein-lang/ein))
+
+  The _deterministic_ functional programming language
+
+- [Cloe](https://cloe-lang.org) ([GitHub](https://github.com/cloe-lang/cloe))
+
+  The _timeless_ functional programming language
+
+- [ssf](https://github.com/raviqqe/ssf)
+
+  The structurally-typed strict functional core language
 
 ### Web apps
 
