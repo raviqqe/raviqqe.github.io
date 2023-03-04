@@ -14,9 +14,27 @@ It is a software engineer.
 
 ## Works
 
+### Language development
+
 - [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
 
-  This is a pen.
+  The programming language for scalable software development
+
+- [F\-\-](https://github.com/raviqqe/fmm)
+
+  The functional target language with CPS conversion
+
+- [Turtle](https://github.com/raviqqe/turtle-build)
+
+  Ninja-compatible build system for high-level programming languages
+
+- [Melior](https://raviqqe.github.io/melior/melior/) ([GitHub](https://github.com/raviqqe/melior))
+
+  The rustic MLIR bindings for Rust
+
+- [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
+
+  Boehm GC integration for Rust
 
 - [Ein](https://ein-lang.org) ([GitHub](https://github.com/ein-lang/ein))
 
@@ -30,17 +48,7 @@ It is a software engineer.
 
   The structurally-typed strict functional core language
 
-- [F\-\-](https://github.com/raviqqe/fmm)
-
-  The more functional variant of C programming language
-
-- [Turtle](https://github.com/raviqqe/turtle-build)
-
-  Ninja-compatible build system for high-level programming languages
-
-- [Melior](https://raviqqe.github.io/melior/melior/) ([GitHub](https://github.com/raviqqe/melior))
-
-  The rustic MLIR bindings for Rust
+### Web apps
 
 - [InfiniDict](https://dictionary.code2d.org/)
 
@@ -58,6 +66,18 @@ It is a software engineer.
 
   Pomodoro timer with performance tracking
 
+### Algorithms and data structures
+
+- [parsdown](https://github.com/raviqqe/parsdown)
+
+  Parser combinator library for hierarchical tokens
+
+- [hamt-rs](https://github.com/raviqqe/hamt-rs)
+
+  Implementation of Hash Array Mapped Trie (HAMT) in Rust
+
+### Developer utilities
+
 - [muffet](https://github.com/raviqqe/muffet)
 
   Fast website link checker in Go
@@ -66,25 +86,31 @@ It is a software engineer.
 
   Yet another [fastmod](https://github.com/facebookincubator/fastmod) alternative
 
-- [hamt-rs](https://github.com/raviqqe/hamt-rs)
-
-  Implementation of Hash Array Mapped Trie (HAMT) in Rust
-
 - [gherkin2markdown](https://github.com/raviqqe/gherkin2markdown)
 
   Gherkin to Markdown converter
-
-- [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
-
-  Boehm GC integration for Rust
 
 - [bstie](https://github.com/raviqqe/bstie)
 
   Summon your daemon.
 
+### Configurations
+
 - [dotfiles](https://github.com/raviqqe/dotfiles)
 
   My dotfiles
+
+- [eslint-config](https://github.com/raviqqe/eslint-config)
+
+  ESLint configuration
+
+- [tsconfig](https://github.com/raviqqe/tsconfig)
+
+  TypeScript compiler configuration for my projects
+
+- [react-tsconfig](https://github.com/raviqqe/react-tsconfig)
+
+  TypeScript compiler configuration for my React projects
 
 ## Technology Stack
 
