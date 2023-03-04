@@ -48,6 +48,10 @@ It is a software engineer.
 
   Boehm GC integration for Rust
 
+- [parsdown](https://github.com/raviqqe/parsdown)
+
+  Parser combinator library for hierarchical tokens
+
 ### Web apps
 
 - [InfiniDict](https://dictionary.code2d.org/)
