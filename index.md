@@ -88,7 +88,7 @@ It is a software engineer.
 
 - [rnm](https://github.com/raviqqe/rnm)
 
-  Yet another [fastmod](https://github.com/facebookincubator/fastmod) alternative
+  A tool to rename identifiers in codes in different cases
 
 - [gherkin2markdown](https://github.com/raviqqe/gherkin2markdown)
 
