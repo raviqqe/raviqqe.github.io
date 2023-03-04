@@ -96,6 +96,18 @@ It is a software engineer.
 
   My dotfiles
 
+- [eslint-config](https://github.com/raviqqe/eslint-config)
+
+  ESLint configuration
+
+- [tsconfig](https://github.com/raviqqe/tsconfig)
+
+  TypeScript compiler configuration for my projects
+
+- [react-tsconfig](https://github.com/raviqqe/react-tsconfig)
+
+  TypeScript compiler configuration for my React projects
+
 ## Technology Stack
 
 ### Languages
