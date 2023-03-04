@@ -70,11 +70,11 @@ It is a software engineer.
 
 - [hamt](https://github.com/raviqqe/hamt)
 
-  Implementation of Hash Array Mapped Trie (HAMT) in Go
+  Hash Array Mapped Trie (HAMT) in Go
 
 - [hamt-rs](https://github.com/raviqqe/hamt-rs)
 
-  Implementation of Hash Array Mapped Trie (HAMT) in Rust
+  Hash Array Mapped Trie (HAMT) in Rust
 
 - [parsdown](https://github.com/raviqqe/parsdown)
 
