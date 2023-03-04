@@ -46,7 +46,7 @@ It is a software engineer.
 
 - [ssf](https://github.com/raviqqe/ssf)
 
-  The structurally-typed strict functional core language
+  The Structurally-typed Strict Functional core language
 
 ### Web apps
 
@@ -56,11 +56,11 @@ It is a software engineer.
 
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
-  Simple task manager with multi-project support
+  Simple task manager with multiple projects
 
 - [SelfTalk](https://notes.code2d.org) ([GitHub](https://github.com/raviqqe/self-talk))
 
-  Note taking app which looks like SMS
+  Note-taking app that looks like a messaging app
 
 - [Pomodoro](https://pomodoro.code2d.org) ([GitHub](https://github.com/raviqqe/pomodoro))
 
@@ -68,13 +68,17 @@ It is a software engineer.
 
 ### Algorithms and data structures
 
-- [parsdown](https://github.com/raviqqe/parsdown)
+- [hamt](https://github.com/raviqqe/hamt)
 
-  Parser combinator library for hierarchical tokens
+  Hash Array Mapped Trie (HAMT) in Go
 
 - [hamt-rs](https://github.com/raviqqe/hamt-rs)
 
-  Implementation of Hash Array Mapped Trie (HAMT) in Rust
+  Hash Array Mapped Trie (HAMT) in Rust
+
+- [parsdown](https://github.com/raviqqe/parsdown)
+
+  Parser combinator library for hierarchical tokens
 
 ### Developer utilities
 
@@ -84,7 +88,7 @@ It is a software engineer.
 
 - [rnm](https://github.com/raviqqe/rnm)
 
-  Yet another [fastmod](https://github.com/facebookincubator/fastmod) alternative
+  A tool to rename identifiers in different cases
 
 - [gherkin2markdown](https://github.com/raviqqe/gherkin2markdown)
 
