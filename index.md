@@ -68,6 +68,10 @@ It is a software engineer.
 
 ### Algorithms and data structures
 
+- [hamt](https://github.com/raviqqe/hamt)
+
+  Implementation of Hash Array Mapped Trie (HAMT) in Go
+
 - [hamt-rs](https://github.com/raviqqe/hamt-rs)
 
   Implementation of Hash Array Mapped Trie (HAMT) in Rust
