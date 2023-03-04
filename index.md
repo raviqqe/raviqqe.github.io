@@ -14,6 +14,8 @@ It is a software engineer.
 
 ## Works
 
+### Languages & tools
+
 - [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
 
   This is a pen.
@@ -42,6 +44,12 @@ It is a software engineer.
 
   The rustic MLIR bindings for Rust
 
+- [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
+
+  Boehm GC integration for Rust
+
+### Web apps
+
 - [InfiniDict](https://dictionary.code2d.org/)
 
   Fast English dictionary for English learners
@@ -58,6 +66,14 @@ It is a software engineer.
 
   Pomodoro timer with performance tracking
 
+### Algorithms and data structures
+
+- [hamt-rs](https://github.com/raviqqe/hamt-rs)
+
+  Implementation of Hash Array Mapped Trie (HAMT) in Rust
+
+### Developer utilities
+
 - [muffet](https://github.com/raviqqe/muffet)
 
   Fast website link checker in Go
@@ -66,21 +82,15 @@ It is a software engineer.
 
   Yet another [fastmod](https://github.com/facebookincubator/fastmod) alternative
 
-- [hamt-rs](https://github.com/raviqqe/hamt-rs)
-
-  Implementation of Hash Array Mapped Trie (HAMT) in Rust
-
 - [gherkin2markdown](https://github.com/raviqqe/gherkin2markdown)
 
   Gherkin to Markdown converter
 
-- [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
-
-  Boehm GC integration for Rust
-
 - [bstie](https://github.com/raviqqe/bstie)
 
   Summon your daemon.
+
+### Configurations
 
 - [dotfiles](https://github.com/raviqqe/dotfiles)
 
