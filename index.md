@@ -56,11 +56,11 @@ It is a software engineer.
 
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
-  Simple task manager with multi-project support
+  Simple task manager with multiple projects
 
 - [SelfTalk](https://notes.code2d.org) ([GitHub](https://github.com/raviqqe/self-talk))
 
-  Note taking app which looks like SMS
+  Note-taking app that looks like a messaging app
 
 - [Pomodoro](https://pomodoro.code2d.org) ([GitHub](https://github.com/raviqqe/pomodoro))
 
