@@ -22,7 +22,7 @@ It is a software engineer.
 
 - [F\-\-](https://github.com/raviqqe/fmm)
 
-  The more functional variant of C programming language
+  The functional target language with CPS conversion
 
 - [Turtle](https://github.com/raviqqe/turtle-build)
 
