@@ -46,7 +46,7 @@ It is a software engineer.
 
 - [ssf](https://github.com/raviqqe/ssf)
 
-  The structurally-typed strict functional core language
+  The Structurally-typed Strict Functional core language
 
 ### Web apps
 
