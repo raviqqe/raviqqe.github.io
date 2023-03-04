@@ -68,13 +68,13 @@ It is a software engineer.
 
 ### Algorithms and data structures
 
-- [parsdown](https://github.com/raviqqe/parsdown)
-
-  Parser combinator library for hierarchical tokens
-
 - [hamt-rs](https://github.com/raviqqe/hamt-rs)
 
   Implementation of Hash Array Mapped Trie (HAMT) in Rust
+
+- [parsdown](https://github.com/raviqqe/parsdown)
+
+  Parser combinator library for hierarchical tokens
 
 ### Developer utilities
 
