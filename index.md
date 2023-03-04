@@ -36,10 +36,6 @@ It is a software engineer.
 
   Boehm GC integration for Rust
 
-- [parsdown](https://github.com/raviqqe/parsdown)
-
-  Parser combinator library for hierarchical tokens
-
 - [Ein](https://ein-lang.org) ([GitHub](https://github.com/ein-lang/ein))
 
   The _deterministic_ functional programming language
@@ -71,6 +67,10 @@ It is a software engineer.
   Pomodoro timer with performance tracking
 
 ### Algorithms and data structures
+
+- [parsdown](https://github.com/raviqqe/parsdown)
+
+  Parser combinator library for hierarchical tokens
 
 - [hamt-rs](https://github.com/raviqqe/hamt-rs)
 
