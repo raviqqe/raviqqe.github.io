@@ -16,11 +16,11 @@ const { title, description } = Astro.props.frontmatter;
     <meta name="description" content={description} />
     <title>{title}</title>
     <base target="_blank" />
-    <meta property="og:title" content="{title}" />
+    <meta property="og:title" content={title} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://raviqqe.com" />
     <meta property="og:image" content="https://raviqqe.com/icon.svg" />
-    <meta property="og:description" content="{description}" />
+    <meta property="og:description" content={description} />
     <meta name="twitter:card" content="summary" />
     <link rel="manifest" href="/manifest.json" />
     <script
