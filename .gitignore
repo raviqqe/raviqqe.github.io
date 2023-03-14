@@ -1,5 +1,3 @@
 .astro
-.jekyll-cache
-_site
 dist
 node_modules
