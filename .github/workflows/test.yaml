@@ -15,4 +15,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: npx markdown-link-check '**/*.md'
+      - run: npx markdown-link-check README.md src/**/*.md
