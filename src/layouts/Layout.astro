@@ -5,6 +5,7 @@ export interface Props {
 }
 
 const { title, description } = Astro.props.frontmatter;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!DOCTYPE html>
@@ -23,6 +24,7 @@ const { title, description } = Astro.props.frontmatter;
     <meta property="og:description" content={description} />
     <meta name="twitter:card" content="summary" />
     <link rel="manifest" href="/manifest.json" />
+    <link rel="canonical" href={canonicalUrl} />
     <script
       defer
       data-domain="raviqqe.com"
