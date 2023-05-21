@@ -18,4 +18,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: raviqqe/markdown-link-check@main
+      - uses: lycheeverse/lychee-action@v1
+        with:
+          args: --exclude '^https://twitter.com/'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
