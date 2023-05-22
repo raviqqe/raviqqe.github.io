@@ -100,7 +100,11 @@ It is a software engineer.
 
   Summon your daemon.
 
-### Configurations
+### Others
+
+- [oneRPC](https://github.com/raviqqe/oneRPC)
+
+  The RPC library for the serverless and TypeScript era
 
 - [dotfiles](https://github.com/raviqqe/dotfiles)
 
