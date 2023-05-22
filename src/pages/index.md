@@ -68,6 +68,10 @@ It is a software engineer.
 
   Pomodoro timer with performance tracking
 
+- [oneRPC](https://github.com/raviqqe/oneRPC)
+
+  The RPC library for the serverless and TypeScript era
+
 ### Algorithms and data structures
 
 - [hamt](https://github.com/raviqqe/hamt)
@@ -100,11 +104,7 @@ It is a software engineer.
 
   Summon your daemon.
 
-### Others
-
-- [oneRPC](https://github.com/raviqqe/oneRPC)
-
-  The RPC library for the serverless and TypeScript era
+### Configurations
 
 - [dotfiles](https://github.com/raviqqe/dotfiles)
 
