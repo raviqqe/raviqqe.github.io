@@ -52,9 +52,9 @@ It is a software engineer.
 
 ### Web apps
 
-- [InfiniDict](https://dictionary.code2d.org/)
+- [Englia](https://englia.app/)
 
-  Fast English dictionary for English learners
+  The AI-powered snappy English dictionary
 
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
