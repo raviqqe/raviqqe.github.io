@@ -50,6 +50,10 @@ It is a software engineer.
 
   The Structurally-typed Strict Functional core language
 
+- [mfmt](https://github.com/raviqqe/mfmt)
+
+  Meta formatter library in Rust
+
 ### Web apps
 
 - [Englia](https://englia.app/)
