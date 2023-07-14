@@ -54,6 +54,10 @@ It is a software engineer.
 
   Meta formatter library in Rust
 
+- [Schemat](https://github.com/raviqqe/schemat)
+
+  The Scheme formatter
+
 ### Web apps
 
 - [Englia](https://englia.app/)
