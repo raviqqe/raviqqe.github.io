@@ -88,7 +88,7 @@ Fast website link checker in Go.
 
 ### Toyota Technological Institute (Master's degree)
 
-- **Term**: April 2016 - May 2017
+- **Term**: April 2016 - April 2017
 - **Department**: Comuter Science
 - Continued on my research of text classification powered by Deep Learning.
 - I also studied Machine Learning and did research work on question answering by Deep Learning at TTI At Chicago for 3 months. I wrote a paper about our latest research of document classification working together with my professors.
