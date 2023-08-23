@@ -61,16 +61,16 @@ For more, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 
 - **Period**: September 2018 - December 2022 (4 years), Canada
 - **Position**: Algorithm Engineer, Full Stack Engineer, Site Reliability Engineer
-- Development of the on-demand transit system
+- Development of the on-demand transit system.
   - Including the RESTful API and rider-driver matching backend systems, an admin web application, and rider/driver mobile applications.
-- Development of rider-driver matching engine written in Scala
-- Efficiency and quality improvemenets of rider-driver matching services
+- Development of rider-driver matching engine written in Scala.
+- Efficiency and quality improvemenets of rider-driver matching services.
 - Implementation of Prometheus/Grafana telemetry stack on a Kubernetes cluster.
-- Optimization of relational database queries on PostgreSQL
-- Mass transit integration using [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs)
+- Optimization of relational database queries on PostgreSQL.
+- Mass transit integration using [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs).
 - Pipeline and task automation for a infrastructure stack of Kubernetes, Helm, Terraform, and Google Cloud.
 - Development of driver navigation API integrated with the third-party routing system.
-- Monolith-to-microservice migration of a RESTful API service
+- Monolith-to-microservice migration of a RESTful API service.
 
 ### Vernax
 
@@ -92,16 +92,16 @@ For more, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 
 - **Period**: April 2016 - April 2017
 - **Department**: Comuter Science
-- Further research on Deep Learning application in text classification
+- Further research on Deep Learning application in text classification.
 - Research on question answering by Deep Learning at TTI At Chicago for 3 months.
 
 ### Toyota Technological Institute (Bachelor's degree)
 
 - **Period**: April 2012 - March 2016
 - **Department**: Mechanical Engineering and Comuter Science
-- Research on applying Deep Learning to text classification for languages with ideograms (e.g. Kanjis in Japanese) combining convolutional and recurrent neural networks
-- Implementation and development of Deep Learning models using Python, TensorFlow, and Chainer
-- Development of data processing/analysis pipelines for Deep Learning models
+- Research on applying Deep Learning to text classification for languages with ideograms (e.g. Kanjis in Japanese) combining convolutional and recurrent neural networks.
+- Implementation and development of Deep Learning models using Python, TensorFlow, and Chainer.
+- Development of data processing/analysis pipelines for Deep Learning models.
 
 ## Technology Stack
 
