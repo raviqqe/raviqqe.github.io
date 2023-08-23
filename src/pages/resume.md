@@ -40,7 +40,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 - A Scheme virtual machine (VM) and ahead-of-time bytecode compiler based on [Ribbit](https://github.com/udem-dlteam/ribbit/tree/main).
 - No `alloc` and no `std`.
 - Its VM is designed to run on a machine stack.
-- Very small memory footprints of a few kilobytes.
+  - Very small memory footprints of a few kilobytes.
 - Performance comparable with [Gambit Scheme](http://gambitscheme.org/)
 
 ### [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc) (Rust)
