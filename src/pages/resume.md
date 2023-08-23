@@ -75,7 +75,7 @@ Fast website link checker in Go.
 - **Term**: May 2017 - August 2017 (4 months), Malaysia
 - **Position**: Full Stack Engineer
 - MVP implementation of a personal assistant application that completes tasks, such as posting pictures on social media and requesting Uber rides, instead of users used via voice interfaces.
-- Worked on deep learning models of language model and voice recognition, Python, TensorFlow, TypeScript, React Native, GraphQL, and Firebase/Google Cloud Platform.
+- Worked on Deep Learning models of language model and voice recognition, Python, TensorFlow, TypeScript, React Native, GraphQL, and Firebase/Google Cloud Platform.
 
 ### Toyota Central R&D Labs.
 
@@ -83,6 +83,14 @@ Fast website link checker in Go.
 - **Position**: Intern
 - Implemented a cutting machine simulator in MATLAB from scratch working with a mechanical engineer specialized in cutting engineering.
 - The simulator analyzed smoothness of cut surfaces of certain materials are expected to be with specific cutting machines.
+
+## Study
+
+### Toyota Technological InstituteToyota Technological Institute
+
+- **Term**: 2012 - 2016
+- Bachelor's degree, Mechanics & Comuter Science
+- Worked on my research of applying Deep Learning to text classification especially in Japanese into multiple groups so that, for instance, users’ potential evaluation and intents in product reviews can be extracted for later use in enterprise situations. I used Python, TensorFlow, and Chainer to implement the models and conduct data processing and analysis mainly for its experiments. My course turned from mechanics to computer science on the way, and I studied about algorithms, data structures, computer architectures, artificial intelligence, etc. there.
 
 ## Technology Stack
 
