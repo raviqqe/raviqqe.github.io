@@ -81,7 +81,7 @@ Fast website link checker in Go.
 
 - **Term**: March 2015 - April 2015 (2 months), Japan
 - **Position**: Intern
-- Implemented a cutting machine simulator in MATLAB from scratch with supervision of a specialist in cutting engineering.
+- Implemented a cutting machine simulator in MATLAB from scratch working with a mechanical engineer specialized in cutting engineering.
 - The simulator analyzed smoothness of cut surfaces of certain materials are expected to be with specific cutting machines.
 
 ## Technology Stack
