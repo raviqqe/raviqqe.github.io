@@ -98,8 +98,8 @@ Fast website link checker in Go.
 - PostgreSQL
 - Redis
 - Terraform
-- Docker
 - Kubernetes
 - Helm
+- Docker
 - Google Cloud Platform
 - Firebase
