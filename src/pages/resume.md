@@ -96,7 +96,9 @@ Fast website link checker in Go.
 - Tokio
 - React
 - PostgreSQL
+- Redis
 - Terraform
+- Docker
 - Kubernetes
 - Helm
 - Google Cloud Platform
