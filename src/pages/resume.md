@@ -46,7 +46,7 @@ A senior software engineer enthusiastic about programming languages themselves.
 ### [Schemat][schemat] (Rust)
 
 - The blazingly fast Scheme code formatter
-- Uses [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
+- Built on [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
 
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
