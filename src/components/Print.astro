@@ -1,0 +1,15 @@
+---
+---
+
+<p class="print"><slot /></p>
+<style>
+  .print {
+    display: none;
+  }
+
+  @media print {
+    .print {
+      display: initial;
+    }
+  }
+</style>
