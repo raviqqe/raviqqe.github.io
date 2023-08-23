@@ -40,8 +40,10 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 
   :root {
     --black-color: #333;
+    --gray-color: #777;
     --red-color: #d00;
     --white-color: #fdfdfd;
+    --monospace-font: monospace;
   }
 
   body {
@@ -62,5 +64,14 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
   a:hover {
     text-decoration: underline;
     text-decoration-thickness: 0.15rem;
+  }
+
+  code {
+    background: var(--gray-color);
+    color: var(--white-color);
+    font-family: var(--monospace-font);
+    font-size: 0.85rem;
+    padding: 0.1rem 0.4rem;
+    border-radius: 0.3rem;
   }
 </style>
