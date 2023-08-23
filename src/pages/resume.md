@@ -57,77 +57,31 @@ It is a software engineer.
 
   The Scheme formatter
 
-### Web apps
+## Work experience
 
-- [Englia](https://englia.app/)
+### Spare Labs inc.
 
-  The AI-powered snappy English dictionary
+- Term: September 2018 - December 2022, Canada
+- Position: Algorithm Engineer, Full-stack Engineer, Site Reliability Engineer
 
-- [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
+- foo
+- bar
 
-  Simple task manager with multiple projects
+### Vernax
 
-- [SelfTalk](https://notes.code2d.org) ([GitHub](https://github.com/raviqqe/self-talk))
+- Term: May 2017 - August 2017, Malaysia
+- Position: Full Stack Engineer
 
-  Note-taking app that looks like a messaging app
+- MVP implementation of a personal assistant mobile application that completes tasks, such as posting pictures on social media and requesting Uber rides, instead of users used via voice interfaces.
+- Worked on deep learning, voice recognition, FaaS, TypeScript, React Native, GraphQL, Python, TensorFlow, and Firebase/Google Cloud Platform.
 
-- [Pomodoro](https://pomodoro.code2d.org) ([GitHub](https://github.com/raviqqe/pomodoro))
+## Toyota Central R&D Labs.
 
-  Pomodoro timer with performance tracking
+- Term: Mar 2015 - Apr 2015, Japan
+- Position: Intern
 
-- [oneRPC](https://github.com/raviqqe/oneRPC)
-
-  The RPC library for the serverless and TypeScript era
-
-### Algorithms and data structures
-
-- [hamt](https://github.com/raviqqe/hamt)
-
-  Hash Array Mapped Trie (HAMT) in Go
-
-- [hamt-rs](https://github.com/raviqqe/hamt-rs)
-
-  Hash Array Mapped Trie (HAMT) in Rust
-
-- [parsdown](https://github.com/raviqqe/parsdown)
-
-  Parser combinator library for hierarchical tokens
-
-### Developer utilities
-
-- [muffet](https://github.com/raviqqe/muffet)
-
-  Fast website link checker in Go
-
-- [rnm](https://github.com/raviqqe/rnm)
-
-  A tool to rename identifiers in different cases
-
-- [gherkin2markdown](https://github.com/raviqqe/gherkin2markdown)
-
-  Gherkin to Markdown converter
-
-- [bstie](https://github.com/raviqqe/bstie)
-
-  Summon your daemon.
-
-### Configurations
-
-- [dotfiles](https://github.com/raviqqe/dotfiles)
-
-  My dotfiles
-
-- [eslint-config](https://github.com/raviqqe/eslint-config)
-
-  ESLint configuration
-
-- [tsconfig](https://github.com/raviqqe/tsconfig)
-
-  TypeScript compiler configuration for my projects
-
-- [react-tsconfig](https://github.com/raviqqe/react-tsconfig)
-
-  TypeScript compiler configuration for my React projects
+- Implemention of a cutting machine simulator in MATLAB from scratch with a supervisor specialized in cutting engineering.
+- The simulator was used to analyze how smooth cut surfaces of materials are expected to be with specific cutting machines.
 
 ## Technology Stack
 
@@ -137,6 +91,7 @@ It is a software engineer.
 - Go
 - TypeScript
 - Python
+- Shell script
 
 ### Tools
 
@@ -148,37 +103,3 @@ It is a software engineer.
 - PostgreSQL
 - Firebase
 - Terraform
-
-## Faves
-
-- [Arch Linux](https://www.archlinux.org)
-
-  The minimal Linux distro
-
-- [FreeBSD](https://www.freebsd.org)
-
-  The real UNIX
-
-- [Neovim](https://neovim.io/)
-
-  The next Vim
-
-- [WebAssembly](https://webassembly.org)
-
-  The next JVM
-
-- [The Unlicense](https://unlicense.org)
-
-  Set your code free
-
-- [Amanita design](https://amanita-design.net/)
-
-  Adventure games in cryptic worlds
-
-- [Nyan cat](https://www.nyan.cat/)
-
-  My favorite song
-
-- [ZType](https://zty.pe)
-
-  A cool typing game of shooting
