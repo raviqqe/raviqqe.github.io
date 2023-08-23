@@ -61,22 +61,22 @@ Fast website link checker in Go.
 
 ### Spare Labs inc.
 
-- Term: September 2018 - December 2022, Canada
-- Position: Algorithm Engineer, Full-stack Engineer, Site Reliability Engineer
+- **Term**: September 2018 - December 2022, Canada
+- **Position**: Algorithm Engineer, Full-stack Engineer, Site Reliability Engineer
 - Efficiency and quality improvemenets of rider-driver matching services
 - Pipeline and task automation for a infrastructure stack of Kubernetes, Helm, Terraform, and Google Cloud.
 
 ### Vernax
 
-- Term: May 2017 - August 2017, Malaysia
-- Position: Full Stack Engineer
+- **Term**: May 2017 - August 2017, Malaysia
+- **Position**: Full Stack Engineer
 - MVP implementation of a personal assistant application that completes tasks, such as posting pictures on social media and requesting Uber rides, instead of users used via voice interfaces.
 - Worked on deep learning, voice recognition, FaaS, TypeScript, React Native, GraphQL, Python, TensorFlow, and Firebase/Google Cloud Platform.
 
 ## Toyota Central R&D Labs.
 
-- Term: Mar 2015 - Apr 2015, Japan
-- Position: Intern
+- **Term**: Mar 2015 - Apr 2015, Japan
+- **Position**: Intern
 - Implemented a cutting machine simulator in MATLAB from scratch with supervision of a specialist in cutting engineering.
 - The simulator analyzed smoothness of cut surfaces of certain materials are expected to be with specific cutting machines.
 
