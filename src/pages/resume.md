@@ -49,7 +49,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 ### [Schemat](https://github.com/raviqqe/schemat) (Rust)
 
 - The blazingly fast Scheme code formatter
-- Used [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation.
+- Uses [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation.
 
 ### [mfmt](https://github.com/raviqqe/mfmt) (Rust)
 
