@@ -54,12 +54,13 @@ I am a senior software engineer enthusiastic about programming languages themsel
 
 ### [mfmt](https://github.com/raviqqe/mfmt) (Rust)
 
-- Meta code formatter library in Rust.
+- A meta code formatter library in Rust
 - Used by Pen and Schemat.
 
-### [muffet](https://github.com/raviqqe/muffet) (Go)
+### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
-Fast website link checker in Go.
+- The fast website link checker in Go
+- Fully parallel check of links based on data dependency
 
 ## Work Experience
 
