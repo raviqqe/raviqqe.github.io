@@ -60,7 +60,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
 - The fast website link checker
-- Parallel check of URL liveness based on data dependency
+- Parallel check of URL liveness using goroutines and channels
 
 ## Work Experience
 
