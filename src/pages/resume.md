@@ -33,7 +33,7 @@ A senior software engineer enthusiastic about programming languages themselves.
 ### [Melior](https://github.com/raviqqe/melior) (Rust)
 
 - The rustic [MLIR](https://mlir.llvm.org/) bindings for Rust.
-- Automatic API generation via proc macros and [TableGen](https://llvm.org/docs/TableGen/).
+- Automatic API generation by proc macros and [TableGen](https://llvm.org/docs/TableGen/) (WIP)
 
 ### [Stak](https://github.com/raviqqe/stak) (Rust, Scheme)
 
