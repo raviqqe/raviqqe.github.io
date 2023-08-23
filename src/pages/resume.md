@@ -95,6 +95,7 @@ Fast website link checker in Go.
 - Node.js
 - Tokio
 - React
+- Next.js
 - PostgreSQL
 - Redis
 - Terraform
