@@ -48,7 +48,7 @@ A web version of this resume is at https://raviqqe.com/resume/.
 ### [Schemat][schemat] (Rust)
 
 - The blazingly fast Scheme code formatter.
-- Built on [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
+- Built with [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
 
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
