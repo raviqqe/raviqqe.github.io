@@ -64,7 +64,8 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 - **Position**: Algorithm Engineer, Full Stack Engineer, Site Reliability Engineer
 - Development of the on-demand transit system.
   - Including the RESTful API and rider-driver matching backend systems, an admin web application, and rider/driver mobile applications.
-- Development of rider-driver matching engine written in Scala.
+- Development of a rider-driver matching engine written in Scala.
+- Development of a traffic information system and its integration with a routing system.
 - Efficiency and quality improvemenets of rider-driver matching services.
 - Implementation of Prometheus/Grafana telemetry stack on a Kubernetes cluster.
 - Optimization of relational database queries on PostgreSQL.
