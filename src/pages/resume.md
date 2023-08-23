@@ -122,6 +122,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 - Tokio
 - React
 - Next.js
+- GraphQL
 - PostgreSQL
 - Redis
 - Terraform
