@@ -72,7 +72,7 @@ It is a software engineer.
 - Term: May 2017 - August 2017, Malaysia
 - Position: Full Stack Engineer
 
-- MVP implementation of a personal assistant mobile application that completes tasks, such as posting pictures on social media and requesting Uber rides, instead of users used via voice interfaces.
+- MVP implementation of a personal assistant application that completes tasks, such as posting pictures on social media and requesting Uber rides, instead of users used via voice interfaces.
 - Worked on deep learning, voice recognition, FaaS, TypeScript, React Native, GraphQL, Python, TensorFlow, and Firebase/Google Cloud Platform.
 
 ## Toyota Central R&D Labs.
