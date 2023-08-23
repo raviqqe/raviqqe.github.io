@@ -72,6 +72,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
   - Including the RESTful API and rider-driver matching backend systems, a admin dashboard of a web application, mobile applications for riders and drivers.
 - Development of rider-driver matching engine written in Scala
 - Efficiency and quality improvemenets of rider-driver matching services
+- Optimization of relational database queries on PostgreSQL
 - Mass transit integration using [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs)
 - Pipeline and task automation for a infrastructure stack of Kubernetes, Helm, Terraform, and Google Cloud.
 - Monolith-to-microservice migration of the RESTful API service
