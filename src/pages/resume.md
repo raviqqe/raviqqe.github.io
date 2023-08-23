@@ -67,7 +67,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
   - Including the RESTful API and rider-driver matching backend systems, an admin web application, and rider/driver mobile applications.
 - Development of a rider-driver matching engine written in Scala.
 - Development of a traffic information system and its integration with a routing system.
-- Efficiency and quality improvemenets of rider-driver matching services.
+- Efficiency and quality improvements of rider-driver matching services.
 - Implementation of Prometheus/Grafana telemetry stack on a Kubernetes cluster.
 - Optimization of relational database queries on PostgreSQL.
 - Mass transit integration using [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs).
@@ -94,7 +94,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 ### Toyota Technological Institute (Master's degree)
 
 - **Period**: April 2016 - April 2017
-- **Department**: Comuter Science
+- **Department**: Computer Science
 - Further research on Deep Learning application in text classification.
   - [Utilizing Visual Forms of Japanese Characters for Neural Review Classification](https://aclanthology.org/I17-2064/) by Yota Toyama, Makoto Miwa, Yutaka Sasaki.
 - Research on question answering by Deep Learning at TTI At Chicago for 3 months.
@@ -102,7 +102,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 ### Toyota Technological Institute (Bachelor's degree)
 
 - **Period**: April 2012 - March 2016
-- **Department**: Mechanical Engineering and Comuter Science
+- **Department**: Mechanical Engineering and Computer Science
 - Research on applying Deep Learning to text classification for languages with ideograms (e.g. Kanjis in Japanese) combining convolutional and recurrent neural networks.
 - Implementation and development of Deep Learning models using Python, [TensorFlow][tensorflow], and [Chainer](https://chainer.org/).
 - Development of data processing/analysis pipelines for Deep Learning models.
