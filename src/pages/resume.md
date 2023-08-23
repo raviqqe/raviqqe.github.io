@@ -73,7 +73,7 @@ Fast website link checker in Go.
 - MVP implementation of a personal assistant application that completes tasks, such as posting pictures on social media and requesting Uber rides, instead of users used via voice interfaces.
 - Worked on deep learning, voice recognition, FaaS, TypeScript, React Native, GraphQL, Python, TensorFlow, and Firebase/Google Cloud Platform.
 
-## Toyota Central R&D Labs.
+### Toyota Central R&D Labs.
 
 - **Term**: Mar 2015 - Apr 2015, Japan
 - **Position**: Intern
