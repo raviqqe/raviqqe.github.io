@@ -15,9 +15,7 @@ description: It is a software engineer.
 
 It is a software engineer.
 
-## Works
-
-### Language development
+## Open source projects
 
 - [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
 
@@ -135,13 +133,10 @@ It is a software engineer.
 
 ### Languages
 
-- TypeScript
 - Rust
 - Go
+- TypeScript
 - Python
-- Haskell
-- English
-- にほんご
 
 ### Tools
 
@@ -153,7 +148,6 @@ It is a software engineer.
 - PostgreSQL
 - Firebase
 - Terraform
-- Neovim
 
 ## Faves
 
