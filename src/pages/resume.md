@@ -9,7 +9,7 @@ description: It is a software engineer.
 [![GitHub](https://img.shields.io/badge/github-raviqqe-red.svg?style=flat-square)](https://github.com/raviqqe)
 [![LinkedIn](https://img.shields.io/badge/linkedin-yota-blue.svg?style=flat-square)](https://www.linkedin.com/in/yota-toyama-29b313bb/)
 
-I am a senior software engineer enthusiastic about programming languages themselves.
+A senior software engineer enthusiastic about programming languages themselves.
 
 ## Open Source Projects
 
