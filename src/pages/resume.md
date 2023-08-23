@@ -17,36 +17,45 @@ It is a software engineer.
 
 ## Open source projects
 
-- [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
+### Rust
 
-  - The functional programming language inspired by the philosophy of Go programming language.
-  - Written in Rust.
+#### [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
 
-- [F\-\-](https://github.com/raviqqe/fmm) (Rust, LLVM)
+- The functional programming language inspired by the philosophy of Go programming language.
+- Written in Rust.
 
-  - Compiler infrastructure and its intermediate language inspired by C-- in Haskell.
+#### [F\-\-](https://github.com/raviqqe/fmm)
 
-- [Turtle](https://github.com/raviqqe/turtle-build)
+- Compiler infrastructure and its intermediate language inspired by C-- in Haskell.
 
-  - [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
-  - Foo
+#### [Turtle](https://github.com/raviqqe/turtle-build)
 
-- [Melior](https://raviqqe.github.io/melior/melior/) ([GitHub](https://github.com/raviqqe/melior))
+- [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
+- Foo
 
-  - The rustic MLIR bindings for Rust.
-  - foo
+#### [Melior](https://raviqqe.github.io/melior/melior/) ([GitHub](https://github.com/raviqqe/melior))
 
-- [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
+- The rustic MLIR bindings for Rust.
+- foo
 
-  - [Boehm garbage collection](https://github.com/ivmai/bdwgc) integration for Rust.
+#### [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
 
-- [mfmt](https://github.com/raviqqe/mfmt)
+- [Boehm garbage collection](https://github.com/ivmai/bdwgc) integration for Rust.
 
-  Meta formatter library in Rust
+#### [Schemat](https://github.com/raviqqe/schemat)
 
-- [Schemat](https://github.com/raviqqe/schemat)
+The Scheme formatter
 
-  The Scheme formatter
+#### [mfmt](https://github.com/raviqqe/mfmt)
+
+- Meta code formatter library in Rust.
+- Used by Pen and Schemat.
+
+### Go
+
+#### [muffet](https://github.com/raviqqe/muffet)
+
+Fast website link checker in Go.
 
 ## Work experience
 
