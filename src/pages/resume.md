@@ -68,8 +68,9 @@ I am a senior software engineer enthusiastic about programming languages themsel
 
 - **Period**: September 2018 - December 2022 (4 years), Canada
 - **Position**: Algorithm Engineer, Full Stack Engineer, Site Reliability Engineer
-- Worked on every component of the on-demand transit system
+- Development of the on-demand transit system
   - Including the RESTful API and matching backend systems, a admin dashboard of a web application, mobile applications of riders and drivers.
+- Development of rider-driver matching engine written in Scala
 - Efficiency and quality improvemenets of rider-driver matching services
 - Mass transit integration using [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs)
 - Pipeline and task automation for a infrastructure stack of Kubernetes, Helm, Terraform, and Google Cloud.
