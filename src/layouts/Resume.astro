@@ -39,12 +39,14 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
   @import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
 
   :root {
+    --black-color: #333;
     --red-color: #d00;
-    --white-color: #333;
+    --white-color: #fdfdfd;
   }
 
   body {
-    color: var(--white-color);
+    background-color: var(--white-color);
+    color: var(--black-color);
     font: 16px "Noto Sans", sans-serif;
     max-width: 42em;
     margin: 0 auto;
