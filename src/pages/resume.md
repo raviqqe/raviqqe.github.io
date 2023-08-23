@@ -95,11 +95,11 @@ It is a software engineer.
 
 ### Tools
 
-- Kubernetes
-- Helm
-- Google Cloud Platform
 - Node.js
 - React
 - PostgreSQL
-- Firebase
 - Terraform
+- Kubernetes
+- Helm
+- Google Cloud Platform
+- Firebase
