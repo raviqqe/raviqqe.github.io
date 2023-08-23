@@ -6,4 +6,4 @@
 
 ## License
 
-[The Unlicense](https://unlicense.org)
+[The Unlicense](https://choosealicense.com/licenses/unlicense/)
