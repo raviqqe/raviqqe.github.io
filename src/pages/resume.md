@@ -59,7 +59,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 
 Fast website link checker in Go.
 
-## Work experience
+## Work Experience
 
 ### Spare Labs inc.
 
