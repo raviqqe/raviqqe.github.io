@@ -15,43 +15,43 @@ A senior software engineer enthusiastic about programming languages themselves.
 
 ### [Pen][pen] (Rust)
 
-- The functional programming language inspired by [Go](https://go.dev/)'s philosophy
-- Automatic thread-safe memory management by [the Perceus reference counting algorithm](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf) which is originally implemented for [Koka](https://github.com/koka-lang/koka) and [Lean 4](https://github.com/leanprover/lean4)
-- Foreign Function Interface (FFI) against Rust supporting both non-`async` and `async` functions using proc macros
+- The functional programming language inspired by [Go](https://go.dev/)'s philosophy.
+- Automatic thread-safe memory management by [the Perceus reference counting algorithm](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf) which is originally implemented for [Koka](https://github.com/koka-lang/koka) and [Lean 4](https://github.com/leanprover/lean4).
+- Foreign Function Interface (FFI) against Rust supporting both non-`async` and `async` functions using proc macros.
 
 ### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
 
-- Compiler infrastructure and its intermediate language for functional programming languages
+- Compiler infrastructure and its intermediate language for functional programming languages.
 - Inspired by [C-- in Glasgow Haskell Compiler](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/cmm).
 - Supports compilation of the intermediate language into both [LLVM IR][llvm] and C.
 
 ### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
 
-- A [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages
-- Asynchronous task execution and scheduling by [Tokio][tokio] runtime
+- A [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
+- Asynchronous task execution and scheduling by [Tokio][tokio] runtime.
 
 ### [Melior](https://github.com/raviqqe/melior) (Rust)
 
-- The rustic [MLIR](https://mlir.llvm.org/) bindings for Rust
-- Automatic API generation by proc macros and [TableGen](https://llvm.org/docs/TableGen/) (WIP)
+- The rustic [MLIR](https://mlir.llvm.org/) bindings for Rust.
+- Automatic API generation by proc macros and [TableGen](https://llvm.org/docs/TableGen/) (WIP.)
 
 ### [Stak](https://github.com/raviqqe/stak) (Rust, Scheme)
 
-- A Scheme virtual machine and ahead-of-time bytecode compiler based on [Ribbit Scheme](https://github.com/udem-dlteam/ribbit/tree/main)
-- No `alloc` and no `std`
+- A Scheme virtual machine and ahead-of-time bytecode compiler based on [Ribbit Scheme](https://github.com/udem-dlteam/ribbit/tree/main).
+- No `alloc` and no `std`.
 - Designed to run on a machine stack as well as on heap.
-  - Small memory footprints (~ a few kilobytes)
-- Performance comparable with [Gambit Scheme](http://gambitscheme.org/)
+  - Small memory footprints (~ a few kilobytes).
+- Performance comparable with [Gambit Scheme](http://gambitscheme.org/).
 
 ### [Schemat][schemat] (Rust)
 
-- The blazingly fast Scheme code formatter
+- The blazingly fast Scheme code formatter.
 - Built on [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
 
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
-- The fast website link checker
-- Parallel check of URL liveness using goroutines and channels
+- The fast website link checker.
+- Parallel check of URL liveness using goroutines and channels.
 
 For more, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 
