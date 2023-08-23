@@ -11,6 +11,8 @@ description: It is a software engineer.
 
 A senior software engineer enthusiastic about programming languages themselves.
 
+If you are viewing a printed version, please refer to [https://raviqqe.com/resume.html]() for a web version with links.
+
 ## Open Source Projects
 
 ### [Pen][pen] (Rust)
