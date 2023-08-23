@@ -62,7 +62,7 @@ Fast website link checker in Go.
 ### Spare Labs inc.
 
 - **Term**: September 2018 - December 2022, Canada
-- **Position**: Algorithm Engineer, Full-stack Engineer, Site Reliability Engineer
+- **Position**: Algorithm Engineer, Full Stack Engineer, Site Reliability Engineer
 - Efficiency and quality improvemenets of rider-driver matching services
 - Pipeline and task automation for a infrastructure stack of Kubernetes, Helm, Terraform, and Google Cloud.
 
