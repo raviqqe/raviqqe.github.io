@@ -22,11 +22,12 @@ It is a senior software engineer enthusiastic about programming languages themse
 ### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
 
 - Compiler infrastructure and its intermediate language inspired by C-- in Haskell.
+- Supports compilation of the intermediate language into both LLVM and C.
 
 ### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
 
 - [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
-- Foo
+- Asynchronous task execution and scheduling with Tokio.
 
 ### [Melior](https://github.com/raviqqe/melior) (Rust)
 
