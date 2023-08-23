@@ -48,19 +48,12 @@ A senior software engineer enthusiastic about programming languages themselves.
 - The blazingly fast Scheme code formatter
 - Uses [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
 
-### [mfmt](https://github.com/raviqqe/mfmt) (Rust)
-
-- A meta code formatter library in Rust
-- Used by [Pen][pen] and [Schemat][schemat].
-
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
 - The fast website link checker
 - Parallel check of URL liveness using goroutines and channels
 
-### [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc) (Rust)
-
-- [Boehm garbage collection](https://github.com/ivmai/bdwgc) integration for Rust
+For more, see [my portfolio page](https://raviqqe.com).
 
 ## Work Experience
 
