@@ -33,6 +33,11 @@ It is a senior software engineer enthusiastic about programming languages themse
 - The rustic MLIR bindings for Rust.
 - Automatic API generation via proc macros and [TableGen](https://llvm.org/docs/TableGen/).
 
+### [Stak](https://github.com/raviqqe/stak) (Rust, Scheme)
+
+- A Scheme virtual machine and ahead-of-time bytecode compiler based on [Ribbit](https://github.com/udem-dlteam/ribbit/tree/main).
+- Very small memory footprints of a few KB.
+
 ### [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc) (Rust)
 
 - [Boehm garbage collection](https://github.com/ivmai/bdwgc) integration for Rust.
