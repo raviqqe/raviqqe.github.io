@@ -43,10 +43,6 @@ A senior software engineer enthusiastic about programming languages themselves.
   - Small memory footprints (~ a few kilobytes)
 - Performance comparable with [Gambit Scheme](http://gambitscheme.org/)
 
-### [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc) (Rust)
-
-- [Boehm garbage collection](https://github.com/ivmai/bdwgc) integration for Rust.
-
 ### [Schemat][schemat] (Rust)
 
 - The blazingly fast Scheme code formatter
@@ -61,6 +57,10 @@ A senior software engineer enthusiastic about programming languages themselves.
 
 - The fast website link checker
 - Parallel check of URL liveness using goroutines and channels
+
+### [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc) (Rust)
+
+- [Boehm garbage collection](https://github.com/ivmai/bdwgc) integration for Rust
 
 ## Work Experience
 
