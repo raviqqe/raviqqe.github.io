@@ -172,7 +172,7 @@ It is a software engineer.
 
   The next JVM
 
-- [The Unlicense](https://unlicense.org)
+- [The Unlicense](https://choosealicense.com/licenses/unlicense/)
 
   Set your code free
 
