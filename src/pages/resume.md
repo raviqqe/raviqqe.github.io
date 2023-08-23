@@ -88,14 +88,14 @@ Fast website link checker in Go.
 
 ### Toyota Technological Institute (Master's degree)
 
-- **Term**: 2016 - 2017
+- **Term**: April 2016 - May 2017
 - **Department**: Comuter Science
 - Continued on my research of text classification powered by Deep Learning.
 - I also studied Machine Learning and did research work on question answering by Deep Learning at TTI At Chicago for 3 months. I wrote a paper about our latest research of document classification working together with my professors.
 
 ### Toyota Technological Institute (Bachelor's degree)
 
-- **Term**: 2012 - 2016
+- **Term**: April 2012 - March 2016
 - **Department**: Mechanical Engineering and Comuter Science
 - Worked on my research of applying Deep Learning to text classification especially in Japanese into multiple groups so that, for instance, users’ potential evaluation and intents in product reviews can be extracted for later use in enterprise situations.
 - Implemented Deep Learning models using Python, TensorFlow, and Chainer and also data processing/analysis pipelines mainly for its experiments. My course turned from mechanics to computer science on the way, and I studied about algorithms, data structures, computer architectures, artificial intelligence, etc. there.
