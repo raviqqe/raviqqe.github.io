@@ -56,7 +56,7 @@ It is a software engineer.
 
 - [Schemat](https://github.com/raviqqe/schemat)
 
-  The Scheme formatter
+  The Scheme code formatter
 
 ### Web apps
 
