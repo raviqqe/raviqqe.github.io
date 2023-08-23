@@ -21,14 +21,14 @@ A senior software engineer enthusiastic about programming languages themselves.
 
 ### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
 
-- Compiler infrastructure and its intermediate language for functional programming languages.
+- Compiler infrastructure and its intermediate language for functional programming languages
 - Inspired by [C-- in Glasgow Haskell Compiler](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/cmm).
 - Supports compilation of the intermediate language into both [LLVM IR][llvm] and C.
 
 ### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
 
-- A [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
-- Asynchronous task execution and scheduling with Tokio.
+- A [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages
+- Asynchronous task execution and scheduling by [Tokio][tokio] runtime
 
 ### [Melior](https://github.com/raviqqe/melior) (Rust)
 
@@ -141,3 +141,4 @@ A senior software engineer enthusiastic about programming languages themselves.
 [llvm]: https://llvm.org/
 [pen]: https://github.com/pen-lang/pen
 [schemat]: https://github.com/raviqqe/schemat
+[tokio]: https://github.com/tokio-rs/tokio
