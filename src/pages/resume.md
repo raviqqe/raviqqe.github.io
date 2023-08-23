@@ -11,6 +11,8 @@ description: It is a software engineer.
 
 A senior software engineer enthusiastic about programming languages themselves.
 
+A web version of this resume is at https://raviqqe.com/resume/.
+
 ## Open Source Projects
 
 ### [Pen][pen] (Rust)
@@ -130,8 +132,6 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 - Google Cloud Platform
 - Vercel
 - Firebase
-
-If you are viewing a printed version, please refer to https://raviqqe.com/resume/ for a web version with hyperlinks.
 
 [llvm]: https://llvm.org/
 [pen]: https://github.com/pen-lang/pen
