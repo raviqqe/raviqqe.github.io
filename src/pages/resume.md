@@ -55,7 +55,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 ### [mfmt](https://github.com/raviqqe/mfmt) (Rust)
 
 - A meta code formatter library in Rust
-- Used by [Pen](#pen) and [Schemat](#schemat).
+- Used by [Pen](#pen-rust) and [Schemat](#schemat-rust).
 
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
