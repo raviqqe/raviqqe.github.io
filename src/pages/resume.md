@@ -11,7 +11,7 @@ description: It is a software engineer.
 
 It is a senior software engineer enthusiastic about programming languages themselves.
 
-## Open source projects
+## Open Source Projects
 
 ### [Pen](https://github.com/pen-lang/pen) (Rust)
 
@@ -39,6 +39,7 @@ It is a senior software engineer enthusiastic about programming languages themse
 - A Scheme virtual machine (VM) and ahead-of-time bytecode compiler based on [Ribbit](https://github.com/udem-dlteam/ribbit/tree/main).
 - The VM is designed to run on a machine stack.
 - Very small memory footprints of a few kilobytes.
+- Performance comparable with [Gambit Scheme](http://gambitscheme.org/)
 
 ### [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc) (Rust)
 
