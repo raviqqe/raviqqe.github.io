@@ -13,7 +13,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 
 ## Open Source Projects
 
-### [Pen](https://github.com/pen-lang/pen) (Rust)
+### [Pen][pen] (Rust)
 
 - The functional programming language inspired by the philosophy of [Go programming language](https://go.dev/).
 - Automatic thread-safe memory management by [the Perceus reference counting algorithm](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf) which is originally implemented for [Koka](https://github.com/koka-lang/koka) and [Lean 4](https://github.com/leanprover/lean4).
@@ -47,7 +47,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 
 - [Boehm garbage collection](https://github.com/ivmai/bdwgc) integration for Rust.
 
-### [Schemat](https://github.com/raviqqe/schemat) (Rust)
+### [Schemat][schemat] (Rust)
 
 - The blazingly fast Scheme code formatter
 - Uses [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
@@ -55,7 +55,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 ### [mfmt](https://github.com/raviqqe/mfmt) (Rust)
 
 - A meta code formatter library in Rust
-- Used by [Pen](#pen-rust) and [Schemat](#schemat-rust).
+- Used by [Pen][pen] and [Schemat][schemat].
 
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
@@ -129,3 +129,5 @@ I am a senior software engineer enthusiastic about programming languages themsel
 - Firebase
 
 [llvm]: https://llvm.org/
+[pen]: https://github.com/pen-lang/pen
+[schemat]: https://github.com/raviqqe/schemat
