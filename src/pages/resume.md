@@ -93,7 +93,7 @@ It is a software engineer.
 - Python
 - Shell script
 
-### Frameworks / platforms
+### Frameworks / Platforms
 
 - Node.js
 - React
