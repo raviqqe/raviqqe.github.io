@@ -9,13 +9,14 @@ description: It is a software engineer.
 [![GitHub](https://img.shields.io/badge/github-raviqqe-red.svg?style=flat-square)](https://github.com/raviqqe)
 [![LinkedIn](https://img.shields.io/badge/linkedin-raviqqe-blue.svg?style=flat-square)](https://www.linkedin.com/in/yota-toyama-29b313bb/)
 
-It is a senior software engineer.
+It is a senior software engineer enthusiastic about programming languages themselves.
 
 ## Open source projects
 
 ### [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen)) (Rust)
 
 - The functional programming language inspired by the philosophy of Go programming language.
+- Automatic thread-safe memory management by [the Perceus reference counting algorithm](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf), that is originally implemented for Koka and Lean 4.
 - Equipped with Foreign Function Interface (FFI) for Rust supporting both non-`async` and `async` functions.
 
 ### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
