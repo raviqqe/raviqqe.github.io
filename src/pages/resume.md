@@ -21,7 +21,8 @@ I am a senior software engineer enthusiastic about programming languages themsel
 
 ### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
 
-- Compiler infrastructure and its intermediate language inspired by C-- in Haskell.
+- Compiler infrastructure and its intermediate language for functional programming languages
+- Inspired by C-- in Haskell.
 - Supports compilation of the intermediate language into both LLVM and C.
 
 ### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
