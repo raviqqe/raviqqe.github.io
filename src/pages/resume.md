@@ -19,7 +19,7 @@ A web version of this resume is at https://raviqqe.com/resume/.
 
 - The functional programming language inspired by [Go](https://go.dev/)'s philosophy.
 - Automatic thread-safe memory management by [the Perceus reference counting algorithm](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf).
-  - [How to Implement the Perceus Reference Counting Garbage Collection](https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection) on Hackernoon.
+  - ["How to Implement the Perceus Reference Counting Garbage Collection"](https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection) on Hackernoon.
 - Foreign Function Interface (FFI) against Rust supporting both non-`async` and `async` functions using proc macros and the C ABI.
 
 ### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
@@ -96,7 +96,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 - **Period**: April 2016 - April 2017
 - **Department**: Computer Science
 - Further research on Deep Learning application in text classification.
-  - [Utilizing Visual Forms of Japanese Characters for Neural Review Classification](https://aclanthology.org/I17-2064/) by Yota Toyama, Makoto Miwa, Yutaka Sasaki.
+  - ["Utilizing Visual Forms of Japanese Characters for Neural Review Classification"](https://aclanthology.org/I17-2064/) by Yota Toyama, Makoto Miwa, Yutaka Sasaki.
 - Research on question answering by Deep Learning at TTI At Chicago for 3 months.
 
 ### Toyota Technological Institute (Bachelor's degree)
