@@ -95,6 +95,7 @@ Fast website link checker in Go.
 ### Frameworks / Platforms
 
 - Node.js
+- Tokio
 - React
 - PostgreSQL
 - Terraform
