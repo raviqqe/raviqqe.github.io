@@ -79,7 +79,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 - **Period**: May 2017 - August 2017 (4 months), Malaysia
 - **Position**: Full Stack Engineer
 - MVP implementation of a personal assistant application that completes tasks, such as posting pictures on social media and requesting Uber rides, instead of users used via voice interfaces.
-- Worked on Deep Learning models of language model and voice recognition, Python, TensorFlow, TypeScript, React Native, GraphQL, and Firebase/Google Cloud Platform.
+- Worked on Deep Learning models of language model and voice recognition, Python, [TensorFlow][tensorflow], TypeScript, React Native, GraphQL, and Firebase/Google Cloud Platform.
 
 ### Toyota Central R&D Labs.
 
@@ -102,7 +102,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 - **Period**: April 2012 - March 2016
 - **Department**: Mechanical Engineering and Comuter Science
 - Research on applying Deep Learning to text classification for languages with ideograms (e.g. Kanjis in Japanese) combining convolutional and recurrent neural networks.
-- Implementation and development of Deep Learning models using Python, TensorFlow, and Chainer.
+- Implementation and development of Deep Learning models using Python, [TensorFlow][tensorflow], and Chainer.
 - Development of data processing/analysis pipelines for Deep Learning models.
 
 ## Technology Stack
@@ -138,4 +138,5 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 [pen]: https://github.com/pen-lang/pen
 [raviqqe]: https://raviqqe.com
 [schemat]: https://github.com/raviqqe/schemat
+[tensorflow]: https://www.tensorflow.org/
 [tokio]: https://github.com/tokio-rs/tokio
