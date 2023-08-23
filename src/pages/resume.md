@@ -35,8 +35,9 @@ It is a senior software engineer enthusiastic about programming languages themse
 
 ### [Stak](https://github.com/raviqqe/stak) (Rust, Scheme)
 
-- A Scheme virtual machine and ahead-of-time bytecode compiler based on [Ribbit](https://github.com/udem-dlteam/ribbit/tree/main).
-- Very small memory footprints of a few KB.
+- A Scheme virtual machine (VM) and ahead-of-time bytecode compiler based on [Ribbit](https://github.com/udem-dlteam/ribbit/tree/main).
+- The VM is designed to run on a machine stack.
+- Very small memory footprints of a few kilobytes.
 
 ### [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc) (Rust)
 
