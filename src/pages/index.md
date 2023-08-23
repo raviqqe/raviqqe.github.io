@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/Home.astro
 title: Yota Toyama
 description: It is a software engineer.
 ---
