@@ -96,7 +96,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 - **Period**: April 2016 - April 2017
 - **Department**: Comuter Science
 - Further research on Deep Learning application in text classification.
-  - Publication at IJCNLP: https://aclanthology.org/I17-2064/
+  - Publication at IJCNLP: [Utilizing Visual Forms of Japanese Characters for Neural Review Classification](https://aclanthology.org/I17-2064/)
 - Research on question answering by Deep Learning at TTI At Chicago for 3 months.
 
 ### Toyota Technological Institute (Bachelor's degree)
