@@ -38,8 +38,13 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 <style is:global>
   @import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
 
+  :root {
+    --red-color: #d00;
+    --white-color: #333;
+  }
+
   body {
-    color: #333;
+    color: var(--white-color);
     font: 16px "Noto Sans", sans-serif;
     max-width: 42em;
     margin: 0 auto;
@@ -48,23 +53,12 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 
   a,
   a:visited {
-    color: teal;
+    color: var(--red-color);
     text-decoration: none;
   }
 
   a:hover {
     text-decoration: underline;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    body {
-      color: #eee;
-      background-color: black;
-    }
-
-    a,
-    a:visited {
-      color: lightsalmon;
-    }
+    text-decoration-thickness: 0.15rem;
   }
 </style>
