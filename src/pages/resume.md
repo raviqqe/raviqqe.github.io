@@ -37,9 +37,9 @@ A senior software engineer enthusiastic about programming languages themselves.
 
 ### [Stak](https://github.com/raviqqe/stak) (Rust, Scheme)
 
-- A Scheme virtual machine (VM) and ahead-of-time bytecode compiler based on [Ribbit Scheme](https://github.com/udem-dlteam/ribbit/tree/main).
+- A Scheme virtual machine and ahead-of-time bytecode compiler based on [Ribbit Scheme](https://github.com/udem-dlteam/ribbit/tree/main).
 - No `alloc` and no `std`.
-- Its VM is designed to run on a machine stack.
+- Designed to run on a machine stack.
   - Very small memory footprints of a few kilobytes.
 - Performance comparable with [Gambit Scheme](http://gambitscheme.org/)
 
