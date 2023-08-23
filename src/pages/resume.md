@@ -65,21 +65,21 @@ Fast website link checker in Go.
 
 ### Spare Labs inc.
 
-- **Term**: September 2018 - December 2022 (4 years), Canada
+- **Period**: September 2018 - December 2022 (4 years), Canada
 - **Position**: Algorithm Engineer, Full Stack Engineer, Site Reliability Engineer
 - Efficiency and quality improvemenets of rider-driver matching services
 - Pipeline and task automation for a infrastructure stack of Kubernetes, Helm, Terraform, and Google Cloud.
 
 ### Vernax
 
-- **Term**: May 2017 - August 2017 (4 months), Malaysia
+- **Period**: May 2017 - August 2017 (4 months), Malaysia
 - **Position**: Full Stack Engineer
 - MVP implementation of a personal assistant application that completes tasks, such as posting pictures on social media and requesting Uber rides, instead of users used via voice interfaces.
 - Worked on Deep Learning models of language model and voice recognition, Python, TensorFlow, TypeScript, React Native, GraphQL, and Firebase/Google Cloud Platform.
 
 ### Toyota Central R&D Labs.
 
-- **Term**: March 2015 - April 2015 (2 months), Japan
+- **Period**: March 2015 - April 2015 (2 months), Japan
 - **Position**: Intern
 - Implemented a cutting machine simulator in MATLAB from scratch working with a mechanical engineer specialized in cutting engineering.
 - The simulator analyzed smoothness of cut surfaces of certain materials are expected to be with specific cutting machines.
@@ -88,14 +88,14 @@ Fast website link checker in Go.
 
 ### Toyota Technological Institute (Master's degree)
 
-- **Term**: April 2016 - April 2017
+- **Period**: April 2016 - April 2017
 - **Department**: Comuter Science
 - Continued on my research of text classification powered by Deep Learning.
 - I also studied Machine Learning and did research work on question answering by Deep Learning at TTI At Chicago for 3 months. I wrote a paper about our latest research of document classification working together with my professors.
 
 ### Toyota Technological Institute (Bachelor's degree)
 
-- **Term**: April 2012 - March 2016
+- **Period**: April 2012 - March 2016
 - **Department**: Mechanical Engineering and Comuter Science
 - Worked on my research of applying Deep Learning to text classification especially in Japanese into multiple groups so that, for instance, users’ potential evaluation and intents in product reviews can be extracted for later use in enterprise situations.
 - Implemented Deep Learning models using Python, TensorFlow, and Chainer and also data processing/analysis pipelines mainly for its experiments. My course turned from mechanics to computer science on the way, and I studied about algorithms, data structures, computer architectures, artificial intelligence, etc. there.
