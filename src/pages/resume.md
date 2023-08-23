@@ -104,8 +104,8 @@ I am a senior software engineer enthusiastic about programming languages themsel
 
 - **Period**: April 2012 - March 2016
 - **Department**: Mechanical Engineering and Comuter Science
-- Worked on my research of applying Deep Learning to text classification especially in Japanese into multiple groups so that, for instance, users’ potential evaluation and intents in product reviews can be extracted for later use in enterprise situations.
-- Implemented Deep Learning models using Python, TensorFlow, and Chainer and also data processing/analysis pipelines mainly for its experiments. My course turned from mechanics to computer science on the way, and I studied about algorithms, data structures, computer architectures, artificial intelligence, etc. there.
+- Research of applying Deep Learning to text classification especially in Japanese into multiple groups so that, for instance, users’ potential evaluation and intents in product reviews can be extracted for later use in enterprise situations.
+- Implementation and development of Deep Learning models using Python, TensorFlow, and Chainer and also data processing/analysis pipelines mainly for its experiments. My course turned from mechanics to computer science on the way, and I studied about algorithms, data structures, computer architectures, artificial intelligence, etc. there.
 
 ## Technology Stack
 
