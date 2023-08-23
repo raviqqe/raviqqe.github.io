@@ -32,7 +32,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 
 ### [Melior](https://github.com/raviqqe/melior) (Rust)
 
-- The rustic MLIR bindings for Rust.
+- The rustic [MLIR](https://mlir.llvm.org/) bindings for Rust.
 - Automatic API generation via proc macros and [TableGen](https://llvm.org/docs/TableGen/).
 
 ### [Stak](https://github.com/raviqqe/stak) (Rust, Scheme)
