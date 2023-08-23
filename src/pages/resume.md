@@ -9,47 +9,43 @@ description: It is a software engineer.
 [![GitHub](https://img.shields.io/badge/github-raviqqe-red.svg?style=flat-square)](https://github.com/raviqqe)
 [![LinkedIn](https://img.shields.io/badge/linkedin-raviqqe-blue.svg?style=flat-square)](https://www.linkedin.com/in/yota-toyama-29b313bb/)
 
-It is a software engineer.
+It is a senior software engineer.
 
 ## Open source projects
 
-### Rust
-
-#### [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
+### [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen)) (Rust)
 
 - The functional programming language inspired by the philosophy of Go programming language.
-- Written in Rust.
+- Equipped with Foreign Function Interface (FFI) for Rust supporting both non-`async` and `async` functions.
 
-#### [F\-\-](https://github.com/raviqqe/fmm)
+### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
 
 - Compiler infrastructure and its intermediate language inspired by C-- in Haskell.
 
-#### [Turtle](https://github.com/raviqqe/turtle-build)
+### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
 
 - [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
 - Foo
 
-#### [Melior](https://raviqqe.github.io/melior/melior/) ([GitHub](https://github.com/raviqqe/melior))
+### [Melior](https://github.com/raviqqe/melior) (Rust)
 
 - The rustic MLIR bindings for Rust.
-- foo
+- Automatic API generation via proc macros and [TableGen](https://llvm.org/docs/TableGen/).
 
-#### [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
+### [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc) (Rust)
 
 - [Boehm garbage collection](https://github.com/ivmai/bdwgc) integration for Rust.
 
-#### [Schemat](https://github.com/raviqqe/schemat)
+### [Schemat](https://github.com/raviqqe/schemat) (Rust)
 
 The Scheme formatter
 
-#### [mfmt](https://github.com/raviqqe/mfmt)
+### [mfmt](https://github.com/raviqqe/mfmt) (Rust)
 
 - Meta code formatter library in Rust.
 - Used by Pen and Schemat.
 
-### Go
-
-#### [muffet](https://github.com/raviqqe/muffet)
+### [muffet](https://github.com/raviqqe/muffet) (Go)
 
 Fast website link checker in Go.
 
