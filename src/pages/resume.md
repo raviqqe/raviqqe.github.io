@@ -23,7 +23,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 
 - Compiler infrastructure and its intermediate language for functional programming languages.
 - Inspired by [C-- in Glasgow Haskell Compiler](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/cmm).
-- Supports compilation of the intermediate language into both LLVM and C.
+- Supports compilation of the intermediate language into both [LLVM IR][llvm] and C.
 
 ### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
 
@@ -126,3 +126,5 @@ Fast website link checker in Go.
 - Google Cloud Platform
 - Vercel
 - Firebase
+
+[llvm]: https://llvm.org/
