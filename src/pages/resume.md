@@ -29,7 +29,7 @@ A web version of this resume is at https://raviqqe.com/resume/.
 ### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
 
 - A [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
-- Asynchronous task execution and scheduling by [Tokio][tokio] runtime.
+- Asynchronous task execution and scheduling integrated with [Tokio][tokio] runtime.
 
 ### [Melior](https://github.com/raviqqe/melior) (Rust)
 
