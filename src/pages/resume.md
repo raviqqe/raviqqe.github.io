@@ -22,7 +22,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 ### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
 
 - Compiler infrastructure and its intermediate language for functional programming languages
-- Inspired by C-- in Glasgow Haskell Compiler.
+- Inspired by [C-- in Glasgow Haskell Compiler](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/cmm).
 - Supports compilation of the intermediate language into both LLVM and C.
 
 ### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
