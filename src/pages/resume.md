@@ -81,7 +81,7 @@ It is a software engineer.
 - Position: Intern
 
 - Implemention of a cutting machine simulator in MATLAB from scratch with a supervisor specialized in cutting engineering.
-- The simulator was used to analyze how smooth cut surfaces of materials are expected to be with specific cutting machines.
+- The simulator analyzed smoothness of cut surfaces of certain materials are expected to be with specific cutting machines.
 
 ## Technology Stack
 
