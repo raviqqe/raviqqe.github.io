@@ -75,7 +75,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 - Optimization of relational database queries on PostgreSQL
 - Mass transit integration using [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs)
 - Pipeline and task automation for a infrastructure stack of Kubernetes, Helm, Terraform, and Google Cloud.
-- Monolith-to-microservice migration of the RESTful API service
+- Monolith-to-microservice migration of a RESTful API service
 
 ### Vernax
 
