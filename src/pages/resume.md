@@ -19,35 +19,26 @@ It is a software engineer.
 
 - [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
 
-  The programming language for scalable software development
+  - The functional programming language inspired by the philosophy of Go programming language.
+  - Written in Rust.
 
-- [F\-\-](https://github.com/raviqqe/fmm)
+- [F\-\-](https://github.com/raviqqe/fmm) (Rust, LLVM)
 
-  The functional target language with CPS conversion
+  - Compiler infrastructure and its intermediate language inspired by C-- in Haskell.
 
 - [Turtle](https://github.com/raviqqe/turtle-build)
 
-  Ninja-compatible build system for high-level programming languages
+  - [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
+  - Foo
 
 - [Melior](https://raviqqe.github.io/melior/melior/) ([GitHub](https://github.com/raviqqe/melior))
 
-  The rustic MLIR bindings for Rust
+  - The rustic MLIR bindings for Rust.
+  - foo
 
 - [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
 
-  Boehm GC integration for Rust
-
-- [Ein](https://ein-lang.org) ([GitHub](https://github.com/ein-lang/ein))
-
-  The _deterministic_ functional programming language
-
-- [Cloe](https://cloe-lang.org) ([GitHub](https://github.com/cloe-lang/cloe))
-
-  The _timeless_ functional programming language
-
-- [ssf](https://github.com/raviqqe/ssf)
-
-  The Structurally-typed Strict Functional core language
+  - [Boehm garbage collection](https://github.com/ivmai/bdwgc) integration for Rust.
 
 - [mfmt](https://github.com/raviqqe/mfmt)
 
