@@ -11,15 +11,16 @@ description: It is a software engineer.
 
 A senior software engineer enthusiastic about programming languages themselves.
 
-If you are viewing a printed version, please refer to https://raviqqe.com/resume/ for a web version with links.
+A web version of this resume is at https://raviqqe.com/resume/.
 
 ## Open Source Projects
 
 ### [Pen][pen] (Rust)
 
 - The functional programming language inspired by [Go](https://go.dev/)'s philosophy.
-- Automatic thread-safe memory management by [the Perceus reference counting algorithm](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf) which is originally implemented for [Koka](https://github.com/koka-lang/koka) and [Lean 4](https://github.com/leanprover/lean4).
-- Foreign Function Interface (FFI) against Rust supporting both non-`async` and `async` functions using proc macros.
+- Automatic thread-safe memory management by [the Perceus reference counting algorithm](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf).
+  - [How to Implement the Perceus Reference Counting Garbage Collection](https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection) on Hackernoon.
+- Foreign Function Interface (FFI) against Rust supporting both non-`async` and `async` functions using proc macros and the C ABI.
 
 ### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
 
@@ -29,7 +30,7 @@ If you are viewing a printed version, please refer to https://raviqqe.com/resume
 ### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
 
 - A [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
-- Asynchronous task execution and scheduling by [Tokio][tokio] runtime.
+- Asynchronous task execution and scheduling integrated with [Tokio][tokio] runtime.
 
 ### [Melior](https://github.com/raviqqe/melior) (Rust)
 
@@ -47,14 +48,14 @@ If you are viewing a printed version, please refer to https://raviqqe.com/resume
 ### [Schemat][schemat] (Rust)
 
 - The blazingly fast Scheme code formatter.
-- Built on [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
+- Built with [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
 
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
 - The fast website link checker.
 - Parallel check of URL liveness using goroutines and channels.
 
-For previous projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
+For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 
 ## Work Experience
 
@@ -64,8 +65,9 @@ For previous projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe
 - **Position**: Algorithm Engineer, Full Stack Engineer, Site Reliability Engineer
 - Development of the on-demand transit system.
   - Including the RESTful API and rider-driver matching backend systems, an admin web application, and rider/driver mobile applications.
-- Development of rider-driver matching engine written in Scala.
-- Efficiency and quality improvemenets of rider-driver matching services.
+- Development of a rider-driver matching engine written in Scala.
+- Development of a traffic information system and its integration with a routing system.
+- Efficiency and quality improvements of rider-driver matching services.
 - Implementation of Prometheus/Grafana telemetry stack on a Kubernetes cluster.
 - Optimization of relational database queries on PostgreSQL.
 - Mass transit integration using [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs).
@@ -78,7 +80,7 @@ For previous projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe
 - **Period**: May 2017 - August 2017 (4 months), Malaysia
 - **Position**: Full Stack Engineer
 - MVP implementation of a personal assistant application that completes tasks, such as posting pictures on social media and requesting Uber rides, instead of users used via voice interfaces.
-- Worked on Deep Learning models of language model and voice recognition, Python, TensorFlow, TypeScript, React Native, GraphQL, and Firebase/Google Cloud Platform.
+- Worked on Deep Learning models of language model and voice recognition, Python, [TensorFlow][tensorflow], TypeScript, React Native, [GraphQL][graphql], and Firebase/Google Cloud Platform.
 
 ### Toyota Central R&D Labs.
 
@@ -92,16 +94,17 @@ For previous projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe
 ### Toyota Technological Institute (Master's degree)
 
 - **Period**: April 2016 - April 2017
-- **Department**: Comuter Science
+- **Department**: Computer Science
 - Further research on Deep Learning application in text classification.
+  - [Utilizing Visual Forms of Japanese Characters for Neural Review Classification](https://aclanthology.org/I17-2064/) by Yota Toyama, Makoto Miwa, Yutaka Sasaki.
 - Research on question answering by Deep Learning at TTI At Chicago for 3 months.
 
 ### Toyota Technological Institute (Bachelor's degree)
 
 - **Period**: April 2012 - March 2016
-- **Department**: Mechanical Engineering and Comuter Science
+- **Department**: Mechanical Engineering and Computer Science
 - Research on applying Deep Learning to text classification for languages with ideograms (e.g. Kanjis in Japanese) combining convolutional and recurrent neural networks.
-- Implementation and development of Deep Learning models using Python, TensorFlow, and Chainer.
+- Implementation and development of Deep Learning models using Python, [TensorFlow][tensorflow], and [Chainer](https://chainer.org/).
 - Development of data processing/analysis pipelines for Deep Learning models.
 
 ## Technology Stack
@@ -121,6 +124,7 @@ For previous projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe
 - Tokio
 - React
 - Next.js
+- GraphQL
 - PostgreSQL
 - Redis
 - Terraform
@@ -133,8 +137,10 @@ For previous projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe
 - Vercel
 - Firebase
 
+[graphql]: https://graphql.org/
 [llvm]: https://llvm.org/
 [pen]: https://github.com/pen-lang/pen
 [raviqqe]: https://raviqqe.com
 [schemat]: https://github.com/raviqqe/schemat
+[tensorflow]: https://www.tensorflow.org/
 [tokio]: https://github.com/tokio-rs/tokio
