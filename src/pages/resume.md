@@ -40,7 +40,7 @@ A senior software engineer enthusiastic about programming languages themselves.
 - A Scheme virtual machine and ahead-of-time bytecode compiler based on [Ribbit Scheme](https://github.com/udem-dlteam/ribbit/tree/main).
 - No `alloc` and no `std`.
 - Designed to run on a machine stack as well as on heap.
-  - Small memory footprints (~ a few kilobytes).
+  - Small memory footprints (~ a few kilobytes.)
 - Performance comparable with [Gambit Scheme](http://gambitscheme.org/).
 
 ### [Schemat][schemat] (Rust)
