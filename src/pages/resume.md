@@ -61,7 +61,7 @@ Fast website link checker in Go.
 
 ### Spare Labs inc.
 
-- **Term**: September 2018 - December 2022, 4 years, Canada
+- **Term**: September 2018 - December 2022 (4 years), Canada
 - **Position**: Algorithm Engineer, Full Stack Engineer, Site Reliability Engineer
 - Efficiency and quality improvemenets of rider-driver matching services
 - Pipeline and task automation for a infrastructure stack of Kubernetes, Helm, Terraform, and Google Cloud.
@@ -75,7 +75,7 @@ Fast website link checker in Go.
 
 ### Toyota Central R&D Labs.
 
-- **Term**: Mar 2015 - Apr 2015 (2 months,) Japan
+- **Term**: Mar 2015 - Apr 2015 (2 months), Japan
 - **Position**: Intern
 - Implemented a cutting machine simulator in MATLAB from scratch with supervision of a specialist in cutting engineering.
 - The simulator analyzed smoothness of cut surfaces of certain materials are expected to be with specific cutting machines.
