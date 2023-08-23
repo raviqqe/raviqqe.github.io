@@ -79,7 +79,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 - **Period**: May 2017 - August 2017 (4 months), Malaysia
 - **Position**: Full Stack Engineer
 - MVP implementation of a personal assistant application that completes tasks, such as posting pictures on social media and requesting Uber rides, instead of users used via voice interfaces.
-- Worked on Deep Learning models of language model and voice recognition, Python, [TensorFlow][tensorflow], TypeScript, React Native, GraphQL, and Firebase/Google Cloud Platform.
+- Worked on Deep Learning models of language model and voice recognition, Python, [TensorFlow][tensorflow], TypeScript, React Native, [GraphQL][graphql], and Firebase/Google Cloud Platform.
 
 ### Toyota Central R&D Labs.
 
@@ -134,6 +134,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 - Vercel
 - Firebase
 
+[graphql]: https://graphql.org/
 [llvm]: https://llvm.org/
 [pen]: https://github.com/pen-lang/pen
 [raviqqe]: https://raviqqe.com
