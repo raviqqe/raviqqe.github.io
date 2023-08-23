@@ -60,7 +60,7 @@ I am a senior software engineer enthusiastic about programming languages themsel
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
 - The fast website link checker
-- Fully parallel check of URL liveness based on data dependency
+- Parallel check of URL liveness based on data dependency
 
 ## Work Experience
 
@@ -97,8 +97,8 @@ I am a senior software engineer enthusiastic about programming languages themsel
 
 - **Period**: April 2016 - April 2017
 - **Department**: Comuter Science
-- Further research on Deep Learning application in text classification.
-- I also studied Machine Learning and did research work on question answering by Deep Learning at TTI At Chicago for 3 months. I wrote a paper about our latest research of document classification working together with my professors.
+- Further research on Deep Learning application in text classification
+- Research on question answering by Deep Learning at TTI At Chicago for 3 months.
 
 ### Toyota Technological Institute (Bachelor's degree)
 
