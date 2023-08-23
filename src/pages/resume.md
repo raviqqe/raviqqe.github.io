@@ -90,7 +90,8 @@ Fast website link checker in Go.
 
 - Rust
 - Go
-- TypeScript
+- TypeScript / JavaScript
+- Scala
 - Python
 - Shell script
 
