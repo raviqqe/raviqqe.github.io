@@ -102,7 +102,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 - **Period**: April 2012 - March 2016
 - **Department**: Mechanical Engineering and Comuter Science
 - Research on applying Deep Learning to text classification for languages with ideograms (e.g. Kanjis in Japanese) combining convolutional and recurrent neural networks.
-- Implementation and development of Deep Learning models using Python, [TensorFlow][tensorflow], and Chainer.
+- Implementation and development of Deep Learning models using Python, [TensorFlow][tensorflow], and [Chainer](https://chainer.org/).
 - Development of data processing/analysis pipelines for Deep Learning models.
 
 ## Technology Stack
