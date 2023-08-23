@@ -69,7 +69,7 @@ A senior software engineer enthusiastic about programming languages themselves.
 - **Period**: September 2018 - December 2022 (4 years), Canada
 - **Position**: Algorithm Engineer, Full Stack Engineer, Site Reliability Engineer
 - Development of the on-demand transit system
-  - Including the RESTful API and rider-driver matching backend systems, a admin dashboard of a web application, mobile applications for riders and drivers.
+  - Including the RESTful API and rider-driver matching backend systems, an admin web application, and rider/driver mobile applications.
 - Development of rider-driver matching engine written in Scala
 - Efficiency and quality improvemenets of rider-driver matching services
 - Optimization of relational database queries on PostgreSQL
