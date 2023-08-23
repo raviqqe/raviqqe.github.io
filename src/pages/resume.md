@@ -26,7 +26,7 @@ It is a senior software engineer enthusiastic about programming languages themse
 
 ### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
 
-- [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
+- A [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
 - Asynchronous task execution and scheduling with Tokio.
 
 ### [Melior](https://github.com/raviqqe/melior) (Rust)
