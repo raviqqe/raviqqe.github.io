@@ -39,7 +39,7 @@ It is a senior software engineer enthusiastic about programming languages themse
 
 ### [Schemat](https://github.com/raviqqe/schemat) (Rust)
 
-The Scheme formatter
+The Scheme code formatter
 
 ### [mfmt](https://github.com/raviqqe/mfmt) (Rust)
 
