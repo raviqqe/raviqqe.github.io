@@ -80,7 +80,7 @@ It is a software engineer.
 - Term: Mar 2015 - Apr 2015, Japan
 - Position: Intern
 
-- Implemention of a cutting machine simulator in MATLAB from scratch with a supervisor specialized in cutting engineering.
+- Implemented a cutting machine simulator in MATLAB from scratch with supervision of a specialist in cutting engineering.
 - The simulator analyzed smoothness of cut surfaces of certain materials are expected to be with specific cutting machines.
 
 ## Technology Stack
