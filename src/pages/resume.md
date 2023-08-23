@@ -72,6 +72,7 @@ A senior software engineer enthusiastic about programming languages themselves.
   - Including the RESTful API and rider-driver matching backend systems, an admin web application, and rider/driver mobile applications.
 - Development of rider-driver matching engine written in Scala
 - Efficiency and quality improvemenets of rider-driver matching services
+- Implementation of Prometheus/Grafana telemetry stack on a Kubernetes cluster.
 - Optimization of relational database queries on PostgreSQL
 - Mass transit integration using [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs)
 - Pipeline and task automation for a infrastructure stack of Kubernetes, Helm, Terraform, and Google Cloud.
@@ -130,6 +131,8 @@ A senior software engineer enthusiastic about programming languages themselves.
 - Kubernetes
 - Helm
 - Docker
+- Prometheus
+- Grafana
 - Google Cloud Platform
 - Vercel
 - Firebase
