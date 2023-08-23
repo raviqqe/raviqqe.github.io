@@ -53,7 +53,7 @@ A senior software engineer enthusiastic about programming languages themselves.
 - The fast website link checker
 - Parallel check of URL liveness using goroutines and channels
 
-For more, see [my portfolio page](https://raviqqe.com).
+For more, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 
 ## Work Experience
 
@@ -134,5 +134,6 @@ For more, see [my portfolio page](https://raviqqe.com).
 
 [llvm]: https://llvm.org/
 [pen]: https://github.com/pen-lang/pen
+[raviqqe]: https://raviqqe.com
 [schemat]: https://github.com/raviqqe/schemat
 [tokio]: https://github.com/tokio-rs/tokio
