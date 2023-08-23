@@ -102,4 +102,5 @@ Fast website link checker in Go.
 - Helm
 - Docker
 - Google Cloud Platform
+- Vercel
 - Firebase
