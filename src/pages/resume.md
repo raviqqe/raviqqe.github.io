@@ -19,7 +19,7 @@ A web version of this resume is at https://raviqqe.com/resume/.
 
 - The functional programming language inspired by [Go](https://go.dev/)'s philosophy.
 - Automatic thread-safe memory management by [the Perceus reference counting algorithm](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf).
-  - Publication at Hackernoon: https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection
+  - Publication on Hackernoon: https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection
 - Foreign Function Interface (FFI) against Rust supporting both non-`async` and `async` functions using proc macros and the C ABI.
 
 ### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
