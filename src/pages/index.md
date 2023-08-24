@@ -184,7 +184,7 @@ My resume is available [here](/resume).
 
 - [Nyan cat](https://www.nyan.cat/)
 
-  My favorite song
+  One of favorite songs
 
 - [ZType](https://zty.pe)
 
