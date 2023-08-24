@@ -16,15 +16,19 @@ It is a software engineer.
 
 ## Works
 
-### Language development
+### Programming languages
 
 - [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
 
   The programming language for scalable software development
 
+- [Stak](https://github.com/raviqqe/stak)
+
+  No `std` and no `alloc` Scheme implementation in Rust
+
 - [F\-\-](https://github.com/raviqqe/fmm)
 
-  The functional target language with CPS conversion
+  The functional intermediate language with CPS conversion
 
 - [Turtle](https://github.com/raviqqe/turtle-build)
 
@@ -60,10 +64,6 @@ It is a software engineer.
 
 ### Web apps
 
-- [Englia](https://englia.app/)
-
-  The AI-powered snappy English dictionary
-
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
   Simple task manager with multiple projects
@@ -75,6 +75,10 @@ It is a software engineer.
 - [Pomodoro](https://pomodoro.code2d.org) ([GitHub](https://github.com/raviqqe/pomodoro))
 
   Pomodoro timer with performance tracking
+
+- [Englia](https://englia.app/)
+
+  The AI-powered snappy English dictionary
 
 - [oneRPC](https://github.com/raviqqe/oneRPC)
 
@@ -132,6 +136,12 @@ It is a software engineer.
 
 ## Technology Stack
 
+- [How to Implement the Perceus Reference Counting Garbage Collection](https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection) on Hackernoon
+
+- ["Utilizing Visual Forms of Japanese Characters for Neural Review Classification"](https://aclanthology.org/I17-2064/) by Yota Toyama, Makoto Miwa, Yutaka Sasaki at IJCNLP 2017
+
+- [Other talks](https://github.com/raviqqe/doc)
+
 ### Languages
 
 - TypeScript
@@ -180,6 +190,14 @@ It is a software engineer.
 
   Adventure games in cryptic worlds
 
+- [Slime knight](https://dragonquest.fandom.com/wiki/Slime_knight)
+
+  My favorite monster
+
+- [Nine Ball](https://armoredcore.fandom.com/wiki/Nine-Ball)
+
+  My favorite raven
+
 - [Nyan cat](https://www.nyan.cat/)
 
   My favorite song
@@ -187,3 +205,7 @@ It is a software engineer.
 - [ZType](https://zty.pe)
 
   A cool typing game of shooting
+
+## Others
+
+My resume is available [here](/resume).
