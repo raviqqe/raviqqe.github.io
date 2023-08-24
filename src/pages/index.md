@@ -16,7 +16,7 @@ It is a software engineer.
 
 ## Works
 
-### Language development
+### Programming languages
 
 - [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
 
