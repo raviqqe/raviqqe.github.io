@@ -7,16 +7,10 @@ const { title, description } = Astro.props.frontmatter;
 <Layout title={title} description={description}>
   <slot />
 </Layout>
-<style>
+<style is:global>
   a,
   a:visited {
     color: var(--red-color);
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-    text-decoration-thickness: 0.15rem;
   }
 
   code {
