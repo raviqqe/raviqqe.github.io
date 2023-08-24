@@ -192,4 +192,6 @@ It is a software engineer.
 
   A cool typing game of shooting
 
+## Others
+
 My resume is available [here](/resume).
