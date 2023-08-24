@@ -144,9 +144,10 @@ It is a software engineer.
 
 ### Languages
 
-- TypeScript
 - Rust
 - Go
+- Scala
+- TypeScript
 - Python
 - Haskell
 - English
