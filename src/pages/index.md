@@ -52,7 +52,7 @@ It is a software engineer.
 
 - [ssf](https://github.com/raviqqe/ssf)
 
-  The Structurally-typed Strict Functional core language
+  The Structurally-typed Strict Functional intermediate language
 
 - [mfmt](https://github.com/raviqqe/mfmt)
 
@@ -134,7 +134,7 @@ It is a software engineer.
 
   TypeScript compiler configuration for my React projects
 
-## Technology Stack
+## Publications
 
 - [How to Implement the Perceus Reference Counting Garbage Collection](https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection) on Hackernoon
 
@@ -142,11 +142,14 @@ It is a software engineer.
 
 - [Other talks](https://github.com/raviqqe/doc)
 
+## Technology Stack
+
 ### Languages
 
-- TypeScript
 - Rust
 - Go
+- Scala
+- TypeScript
 - Python
 - Haskell
 - English
@@ -154,14 +157,16 @@ It is a software engineer.
 
 ### Tools
 
+- Node.js
+- PostgreSQL
+- Redis
+- React
+- Next.js
 - Kubernetes
 - Helm
-- Google Cloud Platform
-- Node.js
-- React
-- PostgreSQL
-- Firebase
 - Terraform
+- Google Cloud Platform
+- Firebase
 - Neovim
 
 ## Faves
