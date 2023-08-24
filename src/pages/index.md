@@ -194,9 +194,13 @@ It is a software engineer.
 
   My favorite monster
 
+- [Nine Ball](https://armoredcore.fandom.com/wiki/Nine-Ball)
+
+  My favorite raven
+
 - [Nyan cat](https://www.nyan.cat/)
 
-  One of favorite songs
+  My favorite song
 
 - [ZType](https://zty.pe)
 
