@@ -28,7 +28,7 @@ It is a software engineer.
 
 - [F\-\-](https://github.com/raviqqe/fmm)
 
-  The functional intermediate language with CPS conversion
+  The functional intermediate language with CPS transformation
 
 - [Turtle](https://github.com/raviqqe/turtle-build)
 
