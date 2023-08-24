@@ -33,6 +33,7 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
   @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500;700&display=swap");
 
   :root {
+    --pitch-black-color: black;
     --black-color: #333;
     --gray-color: #666;
     --red-color: #d00;
@@ -40,6 +41,9 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 
     --background-color: var(--white-color);
     --text-color: var(--black-color);
+
+    --dark-background-color: var(--pitch-black-color);
+    --dark-text-color: var(--white-color);
 
     --monospace-font-family: monospace;
 
