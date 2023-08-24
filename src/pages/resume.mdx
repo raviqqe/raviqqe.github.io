@@ -9,7 +9,7 @@ import Print from "../components/Print.astro";
 # Yota Toyama
 
 [![GitHub](https://img.shields.io/badge/github-raviqqe-red.svg?style=flat-square)](https://github.com/raviqqe)
-[![LinkedIn](https://img.shields.io/badge/linkedin-yota-blue.svg?style=flat-square)](https://www.linkedin.com/in/yota-toyama-29b313bb/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-yota_toyama-blue.svg?style=flat-square)](https://www.linkedin.com/in/yota-toyama-29b313bb/)
 [![Portfolio](https://img.shields.io/badge/website-raviqqe.com-silver.svg?style=flat-square)](https://raviqqe.com)
 
 A senior software engineer equipped with production-level knowledge about Rust, Go, and TypeScript, low-layer programming, and [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html). Enthusiastic about programming languages and their implementations.
@@ -28,21 +28,6 @@ A senior software engineer equipped with production-level knowledge about Rust, 
   - ["How to Implement the Perceus Reference Counting Garbage Collection"](https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection) on Hackernoon.
 - Foreign Function Interface (FFI) against Rust supporting both non-`async` and `async` functions using proc macros and the C ABI.
 
-### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
-
-- Compiler infrastructure and its intermediate language for functional programming languages inspired by [C-- in Glasgow Haskell Compiler](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/cmm).
-- Supports compilation of the intermediate language into both [LLVM IR][llvm] and C.
-
-### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
-
-- A [Ninja](https://ninja-build.org/)-compatible build system for high-level programming languages.
-- Asynchronous task execution and scheduling integrated with [Tokio][tokio] runtime.
-
-### [Melior](https://github.com/raviqqe/melior) (Rust)
-
-- The rustic [MLIR](https://mlir.llvm.org/) bindings for Rust.
-- Automatic API generation by proc macros and [TableGen](https://llvm.org/docs/TableGen/) (WIP.)
-
 ### [Stak](https://github.com/raviqqe/stak) (Rust, Scheme)
 
 - A Scheme virtual machine and ahead-of-time bytecode compiler based on [Ribbit Scheme](https://github.com/udem-dlteam/ribbit/tree/main).
@@ -56,6 +41,22 @@ A senior software engineer equipped with production-level knowledge about Rust, 
 - The blazingly fast Scheme code formatter.
 - Built with [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
 
+### [Turtle](https://github.com/raviqqe/turtle-build) (Rust)
+
+- A [Ninja][ninja]-compatible build system for high-level programming languages.
+- Asynchronous task execution and scheduling integrated with [Tokio][tokio] runtime.
+- Performance comparable with [Ninja][ninja] (0.4 time slower) despite of compact implementation.
+
+### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
+
+- Compiler infrastructure and its intermediate language for functional programming languages inspired by [C-- in Glasgow Haskell Compiler](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/cmm).
+- Supports compilation of the intermediate language into both [LLVM IR][llvm] and C.
+
+### [Melior](https://github.com/raviqqe/melior) (Rust)
+
+- The rustic [MLIR](https://mlir.llvm.org/) bindings for Rust.
+- Automatic API generation by proc macros and [TableGen](https://llvm.org/docs/TableGen/) (WIP.)
+
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
 - The fast website link checker.
@@ -65,7 +66,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 
 ## Work Experience
 
-### Spare Labs inc.
+### Spare Labs
 
 - **Period**: September 2018 - December 2022 (4 years), Canada
 - **Position**: Algorithm Engineer, Full Stack Engineer, and Site Reliability Engineer (full time)
@@ -155,6 +156,7 @@ For other projects, see [my portfolio page][raviqqe] at [raviqqe.com][raviqqe].
 
 [graphql]: https://graphql.org/
 [llvm]: https://llvm.org/
+[ninja]: https://ninja-build.org/
 [pen]: https://github.com/pen-lang/pen
 [raviqqe]: https://raviqqe.com
 [schemat]: https://github.com/raviqqe/schemat
