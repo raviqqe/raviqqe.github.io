@@ -28,6 +28,19 @@ A senior software engineer equipped with production-level knowledge about Rust, 
   - ["How to Implement the Perceus Reference Counting Garbage Collection"](https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection) on Hackernoon.
 - Foreign Function Interface (FFI) against Rust supporting both non-`async` and `async` functions using proc macros and the C ABI.
 
+### [Stak](https://github.com/raviqqe/stak) (Rust, Scheme)
+
+- A Scheme virtual machine and ahead-of-time bytecode compiler based on [Ribbit Scheme](https://github.com/udem-dlteam/ribbit/tree/main).
+- No `alloc` and no `std`.
+- Designed to run on a machine stack as well as on heap.
+  - Small memory footprints (~ a few kilobytes.)
+- Performance comparable with [Gambit Scheme](http://gambitscheme.org/).
+
+### [Schemat][schemat] (Rust)
+
+- The blazingly fast Scheme code formatter.
+- Built with [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
+
 ### [F\-\-](https://github.com/raviqqe/fmm) (Rust)
 
 - Compiler infrastructure and its intermediate language for functional programming languages inspired by [C-- in Glasgow Haskell Compiler](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/cmm).
@@ -42,19 +55,6 @@ A senior software engineer equipped with production-level knowledge about Rust, 
 
 - The rustic [MLIR](https://mlir.llvm.org/) bindings for Rust.
 - Automatic API generation by proc macros and [TableGen](https://llvm.org/docs/TableGen/) (WIP.)
-
-### [Stak](https://github.com/raviqqe/stak) (Rust, Scheme)
-
-- A Scheme virtual machine and ahead-of-time bytecode compiler based on [Ribbit Scheme](https://github.com/udem-dlteam/ribbit/tree/main).
-- No `alloc` and no `std`.
-- Designed to run on a machine stack as well as on heap.
-  - Small memory footprints (~ a few kilobytes.)
-- Performance comparable with [Gambit Scheme](http://gambitscheme.org/).
-
-### [Schemat][schemat] (Rust)
-
-- The blazingly fast Scheme code formatter.
-- Built with [the new allocator API](https://doc.rust-lang.org/std/alloc/trait.Allocator.html) (available only in nightly Rust as of August 2023) for arena memory allocation in parsing and formatting algorithms.
 
 ### [Muffet](https://github.com/raviqqe/muffet) (Go)
 
