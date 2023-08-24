@@ -207,10 +207,6 @@ It is a software engineer.
 
   My favorite song
 
-- [ZType](https://zty.pe)
-
-  A cool typing game of shooting
-
 ## Others
 
 My resume is available [here](/resume).
