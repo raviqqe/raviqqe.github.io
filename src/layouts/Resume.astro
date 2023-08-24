@@ -1,61 +1,13 @@
 ---
-export interface Props {
-  title: string;
-  description: string;
-}
+import Layout from "./Default.astro";
 
 const { title, description } = Astro.props.frontmatter;
-const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
-    <meta name="description" content={description} />
-    <title>{title}</title>
-    <base target="_blank" />
-    <meta property="og:title" content={title} />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://raviqqe.com" />
-    <meta property="og:image" content="https://raviqqe.com/icon.svg" />
-    <meta property="og:description" content={description} />
-    <meta name="twitter:card" content="summary" />
-    <link rel="manifest" href="/manifest.json" />
-    <link rel="canonical" href={canonicalUrl} />
-    <script
-      defer
-      data-domain="raviqqe.com"
-      src="https://plausible.io/js/plausible.js"></script>
-  </head>
-  <body>
-    <slot />
-  </body>
-</html>
-<style is:global>
-  @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500;700&display=swap");
-
-  :root {
-    --black-color: #333;
-    --gray-color: #666;
-    --red-color: #d00;
-    --white-color: #fdfdfd;
-    --monospace-font: monospace;
-
-    font-family: "Noto Sans", sans-serif;
-  }
-
-  body {
-    background-color: var(--white-color);
-    color: var(--black-color);
-    font: 16px "Noto Sans", sans-serif;
-    max-width: 42rem;
-    margin: 0 auto;
-    padding: 1rem 1.2rem;
-  }
-
+<Layout title={title} description={description}>
+  <slot />
+</Layout>
+<style>
   a,
   a:visited {
     color: var(--red-color);
@@ -70,9 +22,5 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
   code {
     background: var(--gray-color);
     color: var(--white-color);
-    font-family: var(--monospace-font);
-    font-size: 0.85rem;
-    padding: 0.1rem 0.4rem;
-    border-radius: 0.3rem;
   }
 </style>
