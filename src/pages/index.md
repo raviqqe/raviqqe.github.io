@@ -134,13 +134,15 @@ It is a software engineer.
 
   TypeScript compiler configuration for my React projects
 
-## Technology Stack
+## Publications
 
 - [How to Implement the Perceus Reference Counting Garbage Collection](https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection) on Hackernoon
 
 - ["Utilizing Visual Forms of Japanese Characters for Neural Review Classification"](https://aclanthology.org/I17-2064/) by Yota Toyama, Makoto Miwa, Yutaka Sasaki at IJCNLP 2017
 
 - [Other talks](https://github.com/raviqqe/doc)
+
+## Technology Stack
 
 ### Languages
 
