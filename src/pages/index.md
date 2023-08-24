@@ -182,6 +182,10 @@ My resume is available [here](/resume).
 
   Adventure games in cryptic worlds
 
+- [Slime knight](https://dragonquest.fandom.com/wiki/Slime_knight)
+
+  My favorite monster
+
 - [Nyan cat](https://www.nyan.cat/)
 
   One of favorite songs
