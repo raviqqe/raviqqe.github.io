@@ -14,8 +14,6 @@ description: It is a software engineer.
 
 It is a software engineer.
 
-My resume is available [here](/resume).
-
 ## Works
 
 ### Language development
@@ -193,3 +191,5 @@ My resume is available [here](/resume).
 - [ZType](https://zty.pe)
 
   A cool typing game of shooting
+
+My resume is available [here](/resume).
