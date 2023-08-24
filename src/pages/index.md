@@ -14,6 +14,8 @@ description: It is a software engineer.
 
 It is a software engineer.
 
+My resume is available [here](/resume).
+
 ## Works
 
 ### Language development
