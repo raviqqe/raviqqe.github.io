@@ -64,10 +64,6 @@ It is a software engineer.
 
 ### Web apps
 
-- [Englia](https://englia.app/)
-
-  The AI-powered snappy English dictionary
-
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
 
   Simple task manager with multiple projects
@@ -79,6 +75,10 @@ It is a software engineer.
 - [Pomodoro](https://pomodoro.code2d.org) ([GitHub](https://github.com/raviqqe/pomodoro))
 
   Pomodoro timer with performance tracking
+
+- [Englia](https://englia.app/)
+
+  The AI-powered snappy English dictionary
 
 - [oneRPC](https://github.com/raviqqe/oneRPC)
 
