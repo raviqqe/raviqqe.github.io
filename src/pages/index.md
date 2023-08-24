@@ -52,7 +52,7 @@ It is a software engineer.
 
 - [ssf](https://github.com/raviqqe/ssf)
 
-  The Structurally-typed Strict Functional core language
+  The Structurally-typed Strict Functional intermediate language
 
 - [mfmt](https://github.com/raviqqe/mfmt)
 
