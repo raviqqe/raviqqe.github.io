@@ -155,14 +155,16 @@ It is a software engineer.
 
 ### Tools
 
+- Node.js
+- PostgreSQL
+- Redis
+- React
+- Next.js
 - Kubernetes
 - Helm
-- Google Cloud Platform
-- Node.js
-- React
-- PostgreSQL
-- Firebase
 - Terraform
+- Google Cloud Platform
+- Firebase
 - Neovim
 
 ## Faves
