@@ -1,65 +1,27 @@
 ---
-export interface Props {
-  title: string;
-  description: string;
-}
+import Layout from "./Default.astro";
 
 const { title, description } = Astro.props.frontmatter;
-const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
-    <meta name="description" content={description} />
-    <title>{title}</title>
-    <base target="_blank" />
-    <meta property="og:title" content={title} />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://raviqqe.com" />
-    <meta property="og:image" content="https://raviqqe.com/icon.svg" />
-    <meta property="og:description" content={description} />
-    <meta name="twitter:card" content="summary" />
-    <link rel="manifest" href="/manifest.json" />
-    <link rel="canonical" href={canonicalUrl} />
-    <script
-      defer
-      data-domain="raviqqe.com"
-      src="https://plausible.io/js/plausible.js"
-    ></script>
-  </head>
-  <body>
-    <slot />
-  </body>
-</html>
+<Layout title={title} description={description}>
+  <slot />
+</Layout>
 <style is:global>
-  @import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
-
   body {
-    color: #333;
-    font: 16px "Noto Sans", sans-serif;
-    max-width: 42rem;
-    margin: 0 auto;
-    padding: 1rem 1.2rem;
+    background-color: var(--background-color);
+    color: var(--text-color);
   }
 
   a,
   a:visited {
     color: teal;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
   }
 
   @media (prefers-color-scheme: dark) {
     body {
-      color: #eee;
-      background-color: black;
+      background-color: var(--dark-background-color);
+      color: var(--dark-text-color);
     }
 
     a,
