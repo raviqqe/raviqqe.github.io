@@ -38,6 +38,14 @@ It is a software engineer.
 
   The rustic MLIR bindings for Rust
 
+- [Schemat](https://github.com/raviqqe/schemat)
+
+  The Scheme code formatter
+
+- [mfmt](https://github.com/raviqqe/mfmt)
+
+  Meta formatter library in Rust
+
 - [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
 
   Boehm GC integration for Rust
@@ -53,14 +61,6 @@ It is a software engineer.
 - [ssf](https://github.com/raviqqe/ssf)
 
   The Structurally-typed Strict Functional intermediate language
-
-- [mfmt](https://github.com/raviqqe/mfmt)
-
-  Meta formatter library in Rust
-
-- [Schemat](https://github.com/raviqqe/schemat)
-
-  The Scheme code formatter
 
 ### Web apps
 
