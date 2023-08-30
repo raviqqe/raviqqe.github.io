@@ -32,4 +32,4 @@ jobs:
       url: https://raviqqe.com
     needs: build
     steps:
-      - uses: actions/deploy-pages@v1
+      - uses: actions/deploy-pages@v2
