@@ -8,7 +8,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           cache: npm
@@ -17,7 +17,7 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: lycheeverse/lychee-action@v1
         with:
           args: --exclude '^https://[^/]*(twitter|linkedin).com/' **/*.md
@@ -27,7 +27,7 @@ jobs:
   spell_check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: streetsidesoftware/cspell-action@v3
         with:
           files: "**/*.{astro,md,ts,tsx}"
