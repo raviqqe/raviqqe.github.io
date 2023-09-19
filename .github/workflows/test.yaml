@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: lycheeverse/lychee-action@v1
         with:
-          args: --exclude '^https://[^/]*(twitter|linkedin).com/' **/*.md
+          args: --exclude '^https://[^/]*((twitter|linkedin).com|aclanthology.org)/' **/*.md
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
