@@ -5,28 +5,28 @@ const { title, description } = Astro.props.frontmatter;
 ---
 
 <Layout title={title} description={description}>
-  <slot />
+	<slot />
 </Layout>
 <style is:global>
-  body {
-    background-color: var(--background-color);
-    color: var(--text-color);
-  }
+	body {
+		background-color: var(--background-color);
+		color: var(--text-color);
+	}
 
-  a,
-  a:visited {
-    color: teal;
-  }
+	a,
+	a:visited {
+		color: teal;
+	}
 
-  @media (prefers-color-scheme: dark) {
-    body {
-      background-color: var(--dark-background-color);
-      color: var(--dark-text-color);
-    }
+	@media (prefers-color-scheme: dark) {
+		body {
+			background-color: var(--dark-background-color);
+			color: var(--dark-text-color);
+		}
 
-    a,
-    a:visited {
-      color: lightsalmon;
-    }
-  }
+		a,
+		a:visited {
+			color: lightsalmon;
+		}
+	}
 </style>
