@@ -3,7 +3,7 @@ const { title, description } = Astro.props;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -47,7 +47,9 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 
     --monospace-font-family: monospace;
 
-    font: 16px "Noto Sans", sans-serif;
+    font:
+      16px "Noto Sans",
+      sans-serif;
   }
 
   body {
