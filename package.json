@@ -6,7 +6,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "format": "prettier --write '*.md' 'src/**/*'"
+    "format": "prettier --write '*.md' '*.ts' 'src/**/*'"
   },
   "dependencies": {
     "@astrojs/mdx": "^1.1.0",
