@@ -112,6 +112,10 @@ It is a software engineer.
 
   Gherkin to Markdown converter
 
+- [gherkin-format](https://github.com/raviqqe/gherkin-format)
+
+  Gherkin code formatter
+
 - [bstie](https://github.com/raviqqe/bstie)
 
   Summon your daemon.
