@@ -9,7 +9,7 @@
     "format": "prettier --write '*.md' '*.ts' 'src/**/*'"
   },
   "dependencies": {
-    "@astrojs/mdx": "^1.1.1",
+    "@astrojs/mdx": "^1.1.2",
     "@astrojs/prefetch": "^0.4.1",
     "@astrojs/sitemap": "^3.0.1",
     "astro": "^3.2.4"
