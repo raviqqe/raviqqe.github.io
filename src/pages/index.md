@@ -22,7 +22,7 @@ It is a software engineer.
 
   The programming language for scalable software development
 
-- [Stak](https://github.com/raviqqe/stak)
+- [Stak](https://raviqqe.github.io/stak) ([GitHub](https://github.com/raviqqe/stak))
 
   No `std` and no `alloc` Scheme implementation in Rust
 
