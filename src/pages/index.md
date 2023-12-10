@@ -138,6 +138,12 @@ It is a software engineer.
 
   TypeScript compiler configuration for my React projects
 
+### Miscelloneous
+
+- [til](https://github.com/raviqqe/til)
+
+  Today I learned
+
 ## Publications
 
 - [How to Implement the Perceus Reference Counting Garbage Collection](https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection) on Hackernoon
