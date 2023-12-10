@@ -134,7 +134,7 @@ It is a software engineer.
 
   TypeScript compiler configuration for my React projects
 
-### Miscelloneous
+### Miscellaneous
 
 - [TIL](https://github.com/raviqqe/til)
 
