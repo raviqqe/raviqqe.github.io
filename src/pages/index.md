@@ -116,10 +116,6 @@ It is a software engineer.
 
   Gherkin code formatter
 
-- [bstie](https://github.com/raviqqe/bstie)
-
-  Summon your daemon.
-
 ### Configurations
 
 - [dotfiles](https://github.com/raviqqe/dotfiles)
@@ -137,6 +133,16 @@ It is a software engineer.
 - [react-tsconfig](https://github.com/raviqqe/react-tsconfig)
 
   TypeScript compiler configuration for my React projects
+
+### Miscellaneous
+
+- [TIL](https://github.com/raviqqe/til)
+
+  Today I learned
+
+- [bstie](https://github.com/raviqqe/bstie)
+
+  Summon your daemon.
 
 ## Publications
 
