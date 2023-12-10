@@ -136,7 +136,7 @@ It is a software engineer.
 
 ### Miscelloneous
 
-- [til](https://github.com/raviqqe/til)
+- [TIL](https://github.com/raviqqe/til)
 
   Today I learned
 
