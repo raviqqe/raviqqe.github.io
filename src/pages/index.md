@@ -7,7 +7,7 @@ description: It is a software engineer.
 # Yota Toyama
 
 [![github](https://img.shields.io/badge/github-raviqqe-red.svg?style=flat-square)](https://github.com/raviqqe)
-[![twitter](https://img.shields.io/badge/twitter-raviqqe-blue.svg?style=flat-square)](https://twitter.com/raviqqe)
+[![bluesky](https://img.shields.io/badge/bluesky-raviqqe-blue.svg?style=flat-square)](https://bsky.app/profile/raviqqe.bsky.social)
 [![editor](https://img.shields.io/badge/editor-neovim-brightgreen.svg?style=flat-square)](https://neovim.io/)
 [![shell](https://img.shields.io/badge/shell-zsh-rebeccapurple.svg?style=flat-square)](https://zsh.sourceforge.io/)
 [![terminal](https://img.shields.io/badge/terminal-alacritty-darkorange.svg?style=flat-square)](https://alacritty.org/)
