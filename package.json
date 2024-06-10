@@ -12,7 +12,7 @@
     "@astrojs/mdx": "^3.1.0",
     "@astrojs/prefetch": "^0.4.1",
     "@astrojs/sitemap": "^3.1.5",
-    "astro": "^4.10.0"
+    "astro": "^4.10.1"
   },
   "devDependencies": {
     "prettier": "^3.3.1",
