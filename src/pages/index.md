@@ -6,11 +6,11 @@ description: It is a software engineer.
 
 # Yota Toyama
 
-[![github](https://img.shields.io/badge/github-raviqqe-red.svg?style=flat-square)](https://github.com/raviqqe)
-[![bluesky](https://img.shields.io/badge/bluesky-raviqqe-blue.svg?style=flat-square)](https://bsky.app/profile/raviqqe.bsky.social)
-[![editor](https://img.shields.io/badge/editor-neovim-brightgreen.svg?style=flat-square)](https://neovim.io/)
-[![shell](https://img.shields.io/badge/shell-zsh-rebeccapurple.svg?style=flat-square)](https://zsh.sourceforge.io/)
-[![terminal](https://img.shields.io/badge/terminal-alacritty-darkorange.svg?style=flat-square)](https://alacritty.org/)
+[![GitHub](https://img.shields.io/badge/github-raviqqe-red.svg?style=flat-square)](https://github.com/raviqqe)
+[![Bluesky](https://img.shields.io/badge/bluesky-raviqqe-blue.svg?style=flat-square)](https://bsky.app/profile/raviqqe.bsky.social)
+[![Neovim](https://img.shields.io/badge/editor-neovim-brightgreen.svg?style=flat-square)](https://neovim.io/)
+[![Zsh](https://img.shields.io/badge/shell-zsh-rebeccapurple.svg?style=flat-square)](https://zsh.sourceforge.io/)
+[![Alacritty](https://img.shields.io/badge/terminal-alacritty-darkorange.svg?style=flat-square)](https://alacritty.org/)
 
 It is a software engineer.
 
