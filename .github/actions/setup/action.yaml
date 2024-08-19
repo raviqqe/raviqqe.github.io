@@ -10,6 +10,5 @@ runs:
         cache: npm
     - run: npm ci
       shell: bash
-    - uses: homebrew/actions/setup-homebrew@master
-    - run: brew install --cask inkscape
+    - run: sudo apt -y install inkscape
       shell: bash
