@@ -11,5 +11,5 @@ runs:
     - run: npm ci
       shell: bash
     - uses: homebrew/actions/setup-homebrew@master
-    - run: brew install inkscape
+    - run: brew install --cask inkscape
       shell: bash
