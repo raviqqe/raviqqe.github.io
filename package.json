@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "npm run build:icon && astro build",
+    "build:icon": "tools/build_icon.sh",
     "preview": "astro preview",
     "format": "prettier --write '*.md' '*.ts' 'src/**/*'"
   },
