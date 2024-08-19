@@ -7,7 +7,9 @@ runs:
   steps:
     - uses: actions/setup-node@v4
       with:
-        node-version-file: package.json
         cache: npm
     - run: npm ci
+      shell: bash
+    - uses: homebrew/actions/setup-homebrew@master
+    - run: brew install inkscape
       shell: bash
