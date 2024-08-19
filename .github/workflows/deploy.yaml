@@ -20,6 +20,8 @@ jobs:
         with:
           cache: npm
       - uses: actions/configure-pages@v5
+      - uses: homebrew/actions/setup-homebrew@master
+      - run: brew install inkscape
       - run: npm install
       - run: npx astro build
       - uses: actions/upload-pages-artifact@v3
