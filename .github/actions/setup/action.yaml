@@ -10,5 +10,7 @@ runs:
         cache: npm
     - run: npm ci
       shell: bash
+    - run: sudo apt -y update --fix-missing
+      shell: bash
     - run: sudo apt -y install inkscape
       shell: bash
