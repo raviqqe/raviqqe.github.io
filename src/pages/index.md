@@ -34,7 +34,7 @@ It is a software engineer.
 
   Ninja-compatible build system for high-level programming languages
 
-- [Melior](https://raviqqe.github.io/melior/melior/) ([GitHub](https://github.com/raviqqe/melior))
+- [Melior](https://mlir-rs.github.io/melior/melior/) ([GitHub](https://github.com/mlir-rs/melior))
 
   The rustic MLIR bindings for Rust
 
