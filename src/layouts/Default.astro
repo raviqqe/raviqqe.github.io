@@ -1,4 +1,6 @@
 ---
+import "@fontsource-variable/noto-sans";
+
 const { title, description } = Astro.props;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 ---
@@ -31,6 +33,7 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
     <script
       defer
       data-domain="raviqqe.com"
+      is:inline
       src="https://plausible.io/js/plausible.js"></script>
   </head>
   <body>
@@ -38,8 +41,6 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
   </body>
 </html>
 <style is:global>
-  @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500;700&display=swap");
-
   :root {
     --pitch-black-color: black;
     --black-color: #333;
@@ -56,7 +57,7 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
     --monospace-font-family: monospace;
 
     font:
-      16px "Noto Sans",
+      16px "Noto Sans Variable",
       sans-serif;
   }
 
