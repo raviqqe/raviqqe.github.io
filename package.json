@@ -10,13 +10,13 @@
     "format": "prettier --write '*.md' '*.ts' 'src/**/*'"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.0.1",
+    "@astrojs/mdx": "^4.0.2",
     "@astrojs/prefetch": "^0.4.1",
     "@astrojs/sitemap": "^3.2.1",
-    "astro": "^5.0.2"
+    "astro": "^5.1.0"
   },
   "devDependencies": {
-    "prettier": "^3.4.1",
+    "prettier": "^3.4.2",
     "prettier-plugin-astro": "^0.14.1",
     "typescript": "^5.7.2"
   }
