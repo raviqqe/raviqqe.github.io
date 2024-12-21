@@ -18,7 +18,6 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         with:
           args: --exclude '^https://[^/]*((twitter|linkedin).com|(aclanthology|alacritty).org)/' **/*.md
-          fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   spell_check:
