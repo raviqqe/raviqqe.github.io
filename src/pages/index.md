@@ -219,4 +219,4 @@ For other articles and slides, see [the documents page](https://raviqqe.github.i
 
 ## Others
 
-My resume is available [here](/resume).
+For my resume, see [the resume page](/resume).
