@@ -6,7 +6,7 @@
     "node": ">=23.3.0"
   },
   "scripts": {
-    "dev": "astro dev",
+    "start": "astro dev",
     "build": "npm run build:icon && astro build",
     "build:icon": "tools/build_icon.sh",
     "preview": "astro preview",
