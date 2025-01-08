@@ -15,18 +15,6 @@ const { title, description } = Astro.props.frontmatter;
 
   a,
   a:visited {
-    color: teal;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    body {
-      background-color: var(--dark-background-color);
-      color: var(--dark-text-color);
-    }
-
-    a,
-    a:visited {
-      color: lightsalmon;
-    }
+    color: light-dark(teal, lightsalmon);
   }
 </style>
