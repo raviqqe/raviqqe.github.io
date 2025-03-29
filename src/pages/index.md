@@ -193,6 +193,10 @@ For other articles and slides, see [the documents page](https://raviqqe.github.i
 
   The next Vim
 
+- [HHKB](https://happyhackingkb.com/)
+
+  The true keyboard
+
 - [WebAssembly](https://webassembly.org)
 
   The next JVM
