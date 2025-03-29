@@ -195,7 +195,7 @@ For other articles and slides, see [the documents page](https://raviqqe.github.i
 
 - [HHKB](https://happyhackingkb.com/)
 
-  The true keyboard
+  The legendary keyboard
 
 - [WebAssembly](https://webassembly.org)
 
