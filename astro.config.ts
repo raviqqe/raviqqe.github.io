@@ -5,5 +5,8 @@ import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
   site: "https://raviqqe.com",
+  image: {
+    remotePatterns: [{ protocol: "https" }],
+  },
   integrations: [mdx(), prefetch({ intentSelector: ["a"] }), sitemap()],
 });
