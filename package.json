@@ -17,7 +17,7 @@
     "@astrojs/prefetch": "^0.4.1",
     "@astrojs/sitemap": "^3.3.0",
     "@fontsource-variable/noto-sans": "^5.2.6",
-    "astro": "^5.7.3"
+    "astro": "^5.7.4"
   },
   "devDependencies": {
     "prettier": "^3.5.3",
