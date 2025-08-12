@@ -8,13 +8,13 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: ./.github/actions/setup
       - run: npm run build
   lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: lycheeverse/lychee-action@v2
         with:
           args: --exclude '^https://[^/]*((twitter|linkedin).com|(aclanthology|alacritty).org)/' **/*.md
@@ -23,7 +23,7 @@ jobs:
   spell_check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: streetsidesoftware/cspell-action@v7
         with:
           files: "**/*.{astro,md,mdx,ts,tsx}"
