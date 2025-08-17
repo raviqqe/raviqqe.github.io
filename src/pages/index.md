@@ -19,65 +19,106 @@ It is a software engineer.
 ### Programming languages
 
 - [Pen](https://pen-lang.org) ([GitHub](https://github.com/pen-lang/pen))
+
   The programming language for scalable software development
+
 - [Stak](https://raviqqe.github.io/stak) ([GitHub](https://github.com/raviqqe/stak))
+
   No `std` and no `alloc` Scheme implementation in Rust
+
 - [F\-\-](https://github.com/raviqqe/fmm)
+
   The functional intermediate language with CPS transformation
+
 - [Turtle](https://github.com/raviqqe/turtle-build)
+
   Ninja-compatible build system for high-level programming languages
+
 - [Melior](https://mlir-rs.github.io/melior/melior/) ([GitHub](https://github.com/mlir-rs/melior))
+
   The rustic MLIR bindings for Rust
+
 - [Schemat](https://github.com/raviqqe/schemat)
+
   The Scheme code formatter
+
 - [mfmt](https://github.com/raviqqe/mfmt)
+
   Meta formatter library in Rust
+
 - [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
+
   Boehm GC integration for Rust
+
 - [Ein](https://ein-lang.org) ([GitHub](https://github.com/ein-lang/ein))
+
   The _deterministic_ functional programming language
+
 - [Cloe](https://cloe-lang.org) ([GitHub](https://github.com/cloe-lang/cloe))
+
   The _timeless_ functional programming language
+
 - [ssf](https://github.com/raviqqe/ssf)
+
   The Structurally-typed Strict Functional intermediate language
 
 ### Web apps
 
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
+
   Simple task manager with multiple projects
+
 - [SelfTalk](https://notes.code2d.org) ([GitHub](https://github.com/raviqqe/self-talk))
+
   Note-taking app that looks like a messaging app
+
 - [Pomodoro](https://pomodoro.code2d.org) ([GitHub](https://github.com/raviqqe/pomodoro))
+
   Pomodoro timer with performance tracking
+
 - [Englia](https://englia.app/)
+
   The AI-powered snappy English dictionary
+
 - [oneRPC](https://github.com/raviqqe/oneRPC)
+
   The RPC library for the serverless and TypeScript era
+
+- [Monza Editor](https://github.com/raviqqe/monza-editor)
+
+  The `textarea` element with syntax highlighting
 
 ### Algorithms and data structures
 
 - [hamt](https://github.com/raviqqe/hamt)
+
   Hash Array Mapped Trie (HAMT) in Go
+
 - [hamt-rs](https://github.com/raviqqe/hamt-rs)
+
   Hash Array Mapped Trie (HAMT) in Rust
+
 - [parsdown](https://github.com/raviqqe/parsdown)
+
   Parser combinator library for hierarchical tokens
 
 ### Developer utilities
 
 - [muffet](https://github.com/raviqqe/muffet)
+
   Fast website link checker in Go
+
 - [rnm](https://github.com/raviqqe/rnm)
+
   A tool to rename identifiers in different cases
+
 - [gherkin2markdown](https://github.com/raviqqe/gherkin2markdown)
+
   Gherkin to Markdown converter
+
 - [gherkin-format](https://github.com/raviqqe/gherkin-format)
+
   Gherkin code formatter
-
-### Frontend
-
-- [Monza Editor](https://github.com/raviqqe/monza-editor)
-  The `textarea` element with syntax highlighting
 
 ### Configurations
 
