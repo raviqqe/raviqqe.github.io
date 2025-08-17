@@ -84,6 +84,10 @@ It is a software engineer.
 
   The RPC library for the serverless and TypeScript era
 
+- [Monza Editor](https://github.com/raviqqe/monza-editor)
+
+  The `textarea` element with syntax highlighting
+
 ### Algorithms and data structures
 
 - [hamt](https://github.com/raviqqe/hamt)
