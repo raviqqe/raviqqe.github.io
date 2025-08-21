@@ -185,7 +185,7 @@ For other articles and slides, see [the documents page](https://raviqqe.github.i
 
 ## Faves
 
-- [Arch Linux](https://www.archlinux.org)
+- [Arch Linux](https://archlinux.org)
 
   The minimal Linux distro
 
