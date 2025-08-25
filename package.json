@@ -15,9 +15,9 @@
   "dependencies": {
     "@astrojs/mdx": "^4.3.4",
     "@astrojs/prefetch": "^0.4.1",
-    "@astrojs/sitemap": "^3.5.0",
+    "@astrojs/sitemap": "^3.5.1",
     "@fontsource-variable/noto-sans": "^5.2.7",
-    "astro": "^5.13.2"
+    "astro": "^5.13.3"
   },
   "devDependencies": {
     "prettier": "^3.6.2",
