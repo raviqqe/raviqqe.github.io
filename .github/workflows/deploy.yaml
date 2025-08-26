@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v5
       - uses: ./.github/actions/setup
       - uses: actions/configure-pages@v5
-      - run: npm run build
+      - run: node --run build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

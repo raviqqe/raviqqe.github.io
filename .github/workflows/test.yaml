@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - uses: ./.github/actions/setup
-      - run: npm run build
+      - run: node --run build
   lint:
     runs-on: ubuntu-latest
     steps:

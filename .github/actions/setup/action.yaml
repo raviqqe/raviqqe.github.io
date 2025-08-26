@@ -7,9 +7,9 @@ runs:
   steps:
     - uses: actions/setup-node@v4
       with:
-        cache: npm
+        cache: pnpm
         node-version-file: package.json
-    - run: npm ci
+    - run: pnpm i --frozen-lockfile
       shell: bash
     - run: sudo apt -y update --fix-missing
       shell: bash
