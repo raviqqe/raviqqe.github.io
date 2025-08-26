@@ -19,7 +19,7 @@ jobs:
       - uses: ./.github/actions/setup
       - uses: actions/configure-pages@v5
       - run: node --run build
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: dist
   deploy:
