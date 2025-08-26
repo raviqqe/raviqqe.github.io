@@ -10,14 +10,14 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - uses: ./.github/actions/setup
-      - run: npm run build
+      - run: node --run build
   lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
       - uses: lycheeverse/lychee-action@v2
         with:
-          args: --exclude '^https://[^/]*((twitter|linkedin).com|(aclanthology|alacritty).org)/' **/*.md
+          args: --exclude '^https://[^/]*((twitter|linkedin).com|(aclanthology|archlinux|alacritty).org)/' **/*.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   spell_check:
