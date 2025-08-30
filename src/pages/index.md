@@ -84,9 +84,13 @@ It is a software engineer.
 
   The RPC library for the serverless and TypeScript era
 
-- [Monza Editor](https://github.com/raviqqe/monza-editor)
+- [Monza Editor](https://raviqqe.github.io/monza-editor) ([GitHub](https://github.com/raviqqe/monza-editor))
 
   The `textarea` element with syntax highlighting
+
+- [Picolight](https://raviqqe.github.io/picolight) ([GitHub](https://github.com/raviqqe/picolight))
+
+  The tiny syntax highlighting library for dynamic input
 
 ### Algorithms and data structures
 
