@@ -1,4 +1,4 @@
-name: deploy
+name: release
 on:
   push:
     branches:
@@ -22,11 +22,11 @@ jobs:
       - uses: actions/upload-pages-artifact@v4
         with:
           path: dist
-  deploy:
+  release:
+    needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: https://raviqqe.com
-    needs: build
     steps:
       - uses: actions/deploy-pages@v4
