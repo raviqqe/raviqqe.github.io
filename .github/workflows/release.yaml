@@ -22,12 +22,20 @@ jobs:
       - uses: actions/upload-pages-artifact@v4
         with:
           path: dist
-  release:
+  pages:
     needs: build
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: https://raviqqe.com
     steps:
       - uses: actions/deploy-pages@v4
-        if: github.ref == 'refs/heads/main'
+  release:
+    needs:
+      - build
+      - pages
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - run: for result in ${{ join(needs.*.result, ' ') }}; do [ $result = success -o $result = skipped ]; done
