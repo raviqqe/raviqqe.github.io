@@ -13,11 +13,11 @@
     "format": "prettier --write '*.md' '*.ts' 'src/**/*'"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.4",
+    "@astrojs/mdx": "^4.3.5",
     "@astrojs/prefetch": "^0.4.1",
     "@astrojs/sitemap": "^3.5.0",
     "@fontsource-variable/noto-sans": "^5.2.8",
-    "astro": "^5.13.5"
+    "astro": "^5.13.6"
   },
   "devDependencies": {
     "prettier": "^3.6.2",
