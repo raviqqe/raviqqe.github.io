@@ -18,8 +18,8 @@ importers:
         specifier: ^3.5.0
         version: 3.5.1
       '@fontsource-variable/noto-sans':
-        specifier: ^5.2.8
-        version: 5.2.8
+        specifier: ^5.2.9
+        version: 5.2.9
       astro:
         specifier: ^5.13.7
         version: 5.13.7(@types/node@24.3.1)(rollup@4.50.1)(typescript@5.9.2)
@@ -245,8 +245,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@fontsource-variable/noto-sans@5.2.8':
-    resolution: {integrity: sha512-nMeXrj47468guHGyL2D+K1DTs2hgd8xgj0ZaF7/FR5L4kCUHbhNSNu2L15y75anJaCKtM1JzSyFAQ/uw8GIo7g==}
+  '@fontsource-variable/noto-sans@5.2.9':
+    resolution: {integrity: sha512-4seY0QDL/ormFmtgv1xvDf8ZVhpx7bR7b+mOXPzA2sMtKxuiVKHxAFzmaO2mibYAFcX7Tx8lgyGH2Qbb+6HBXA==}
 
   '@img/sharp-darwin-arm64@0.34.3':
     resolution: {integrity: sha512-ryFMfvxxpQRsgZJqBd4wsttYQbCxsJksrv9Lw/v798JcQ8+w84mBWuXwl+TT0WJ/WrYOLaYpwQXi3sA9nTIaIg==}
@@ -1883,7 +1883,7 @@ snapshots:
   '@esbuild/win32-x64@0.25.9':
     optional: true
 
-  '@fontsource-variable/noto-sans@5.2.8': {}
+  '@fontsource-variable/noto-sans@5.2.9': {}
 
   '@img/sharp-darwin-arm64@0.34.3':
     optionalDependencies:
