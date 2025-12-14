@@ -154,6 +154,8 @@ It is a software engineer.
 
 ## Publications
 
+- [Stak Scheme: The tiny R7RS-small implementation](https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/4/Stak-Scheme-The-tiny-R7RS-small-implementation) at Scheme Workshop 2025 (presentation only)
+
 - [How to Implement the Perceus Reference Counting Garbage Collection](https://hackernoon.com/how-to-implement-the-perceus-reference-counting-garbage-collection) on Hackernoon
 
 - ["Utilizing Visual Forms of Japanese Characters for Neural Review Classification"](https://aclanthology.org/I17-2064/) by Yota Toyama, Makoto Miwa, Yutaka Sasaki at IJCNLP 2017
