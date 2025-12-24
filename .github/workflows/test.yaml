@@ -15,6 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+      - uses: ./.github/actions/setup
+      - run: node --run lint
+  markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
       - uses: lycheeverse/lychee-action@v2
         with:
           args: --exclude '^https://[^/]*((twitter|linkedin).com|(aclanthology|archlinux|alacritty).org)/' **/*.md
@@ -31,6 +37,7 @@ jobs:
     needs:
       - build
       - lint
+      - markdown
       - spell_check
     if: always()
     runs-on: ubuntu-latest
