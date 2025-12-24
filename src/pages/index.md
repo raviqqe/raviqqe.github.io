@@ -46,7 +46,7 @@ It is a software engineer.
 
   Meta formatter library in Rust
 
-- [bdwgc-alloc](https://github.com/raviqqe/bdwgc-alloc)
+- [bdwgc-rust](https://github.com/bdwgc/bdwgc-rust)
 
   Boehm GC integration for Rust
 
