@@ -14,7 +14,7 @@
     "@astrojs/prefetch": "^0.4.1",
     "@astrojs/sitemap": "^3.6.1",
     "@fontsource-variable/noto-sans": "^5.2.10",
-    "astro": "^5.16.7"
+    "astro": "^5.16.8"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.3.11",
