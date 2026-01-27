@@ -23,7 +23,7 @@ jobs:
       - uses: actions/checkout@v6
       - uses: lycheeverse/lychee-action@v2
         with:
-          args: --exclude '^https://[^/]*((fandrom|twitter|linkedin).com|(aclanthology|archlinux|alacritty).org)/' **/*.md
+          args: --exclude '^https://[^/]*((dragonquest.fandom|twitter|linkedin).com|(aclanthology|archlinux|alacritty).org)/' **/*.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   spell_check:
