@@ -17,7 +17,7 @@
     "astro": "^5.17.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.4.0",
+    "@biomejs/biome": "^2.4.2",
     "@raviqqe/biome-config": "^2.0.24",
     "typescript": "^5.9.3"
   },
