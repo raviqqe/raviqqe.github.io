@@ -1,3 +1,3 @@
-User-agent: *
-Allow: /
-Sitemap: https://raviqqe.com/sitemap-index.xml
+user-agent: *
+allow: /
+sitemap: https://raviqqe.com/sitemap-index.xml
