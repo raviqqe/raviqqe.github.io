@@ -10,11 +10,11 @@
     "lint": "biome ci"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.13",
+    "@astrojs/mdx": "^5.0.0",
     "@astrojs/prefetch": "^0.4.1",
-    "@astrojs/sitemap": "^3.7.0",
+    "@astrojs/sitemap": "^3.7.1",
     "@fontsource-variable/noto-sans": "^5.2.10",
-    "astro": "^5.18.0"
+    "astro": "^6.0.2"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.6",
