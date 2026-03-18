@@ -22,7 +22,7 @@ It is a software engineer.
 
   The programming language for scalable software development
 
-- [Stak](https://raviqqe.github.io/stak) ([GitHub](https://github.com/raviqqe/stak))
+- [Stak](https://raviqqe.com/stak) ([GitHub](https://github.com/raviqqe/stak))
 
   No `std` and no `alloc` Scheme implementation in Rust
 
@@ -84,11 +84,11 @@ It is a software engineer.
 
   The RPC library for the serverless and TypeScript era
 
-- [Monza Editor](https://raviqqe.github.io/monza-editor) ([GitHub](https://github.com/raviqqe/monza-editor))
+- [Monza Editor](https://raviqqe.com/monza-editor) ([GitHub](https://github.com/raviqqe/monza-editor))
 
   The `textarea` element with syntax highlighting
 
-- [Picolight](https://raviqqe.github.io/picolight) ([GitHub](https://github.com/raviqqe/picolight))
+- [Picolight](https://raviqqe.com/picolight) ([GitHub](https://github.com/raviqqe/picolight))
 
   The tiny syntax highlighting library for dynamic input
 
@@ -160,7 +160,7 @@ It is a software engineer.
 
 - ["Utilizing Visual Forms of Japanese Characters for Neural Review Classification"](https://aclanthology.org/I17-2064/) by Yota Toyama, Makoto Miwa, Yutaka Sasaki at IJCNLP 2017
 
-For other articles and slides, see [the documents page](https://raviqqe.github.io/doc/).
+For other articles and slides, see [the documents page](https://raviqqe.com/doc/).
 
 ## Technology Stack
 
