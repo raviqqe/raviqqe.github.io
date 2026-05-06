@@ -19,7 +19,7 @@
   "devDependencies": {
     "@biomejs/biome": "^2.4.14",
     "@raviqqe/biome-config": "^2.0.26",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.3"
   },
   "engines": {
     "node": ">=25.2.1"
