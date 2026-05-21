@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@astrojs/mdx':
         specifier: ^5.0.6
-        version: 5.0.6(astro@6.3.5(@types/node@25.0.3)(rollup@4.60.4))
+        version: 5.0.6(astro@6.3.6(@types/node@25.0.3)(rollup@4.60.4))
       '@astrojs/prefetch':
         specifier: ^0.4.1
         version: 0.4.1
@@ -21,8 +21,8 @@ importers:
         specifier: ^5.2.10
         version: 5.2.10
       astro:
-        specifier: ^6.3.5
-        version: 6.3.5(@types/node@25.0.3)(rollup@4.60.4)
+        specifier: ^6.3.6
+        version: 6.3.6(@types/node@25.0.3)(rollup@4.60.4)
     devDependencies:
       '@biomejs/biome':
         specifier: ^2.4.15
@@ -736,8 +736,8 @@ packages:
     resolution: {integrity: sha512-LElXdjswlqjWrPpJFg1Fx4wpkOCxj1TDHlSV4PlaRxHGWko024xICaa97ZkMfs6DRKlCguiAI+rbXv5GWwXIkg==}
     hasBin: true
 
-  astro@6.3.5:
-    resolution: {integrity: sha512-gU+4KedkbTuVgz7YoVAN+9Ftnq0GaYwejxK2NbqDzB0M9dWd0f3kXZBuaM9hzbchRFoRAJfJjFtdX9LK6Ir7ZA==}
+  astro@6.3.6:
+    resolution: {integrity: sha512-lM30gGI/iASK9Z1WQVnBBYzxVwDv8slkXbJOF7FNJdZQeBrFETpsQvYoLRupM/adt2ObP5hkYAWEeCjofoqlRw==}
     engines: {node: '>=22.12.0', npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
 
@@ -1070,8 +1070,8 @@ packages:
   longest-streak@3.1.0:
     resolution: {integrity: sha512-9Ri+o0JYgehTaVBBDoMqIl8GXtbWg711O3srftcHhZ0dqnETqLaoIK0x17fUw9rFSlK/0NlsKe0Ahhyl5pXE2g==}
 
-  lru-cache@11.4.0:
-    resolution: {integrity: sha512-W+R+kFL4HgVxONq2bhXPi3bGpzGe/yEhVOp233qw9wCRtgncJ15P3bC+e4zZMu4Cq7d+WAJjXGW0uUkifhcatA==}
+  lru-cache@11.5.0:
+    resolution: {integrity: sha512-5YgH9UJd7wVb9hIouI2adWpgqrrICkt070Dnj8EUY1+B4B2P9eRLPAkAAo6NICA7CEhOIeBHl46u9zSNpNu7zA==}
     engines: {node: 20 || >=22}
 
   magic-string@0.30.21:
@@ -1747,12 +1747,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/mdx@5.0.6(astro@6.3.5(@types/node@25.0.3)(rollup@4.60.4))':
+  '@astrojs/mdx@5.0.6(astro@6.3.6(@types/node@25.0.3)(rollup@4.60.4))':
     dependencies:
       '@astrojs/markdown-remark': 7.1.2
       '@mdx-js/mdx': 3.1.1
       acorn: 8.16.0
-      astro: 6.3.5(@types/node@25.0.3)(rollup@4.60.4)
+      astro: 6.3.6(@types/node@25.0.3)(rollup@4.60.4)
       es-module-lexer: 2.1.0
       estree-util-visit: 2.0.0
       hast-util-to-html: 9.0.5
@@ -2263,7 +2263,7 @@ snapshots:
 
   astring@1.9.0: {}
 
-  astro@6.3.5(@types/node@25.0.3)(rollup@4.60.4):
+  astro@6.3.6(@types/node@25.0.3)(rollup@4.60.4):
     dependencies:
       '@astrojs/compiler': 4.0.0
       '@astrojs/internal-helpers': 0.9.1
@@ -2771,7 +2771,7 @@ snapshots:
 
   longest-streak@3.1.0: {}
 
-  lru-cache@11.4.0: {}
+  lru-cache@11.5.0: {}
 
   magic-string@0.30.21:
     dependencies:
@@ -3687,7 +3687,7 @@ snapshots:
       chokidar: 5.0.0
       destr: 2.0.5
       h3: 1.15.11
-      lru-cache: 11.4.0
+      lru-cache: 11.5.0
       node-fetch-native: 1.6.7
       ofetch: 1.5.1
       ufo: 1.6.4
