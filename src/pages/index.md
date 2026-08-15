@@ -26,10 +26,6 @@ It is a software engineer.
 
   No `std` and no `alloc` Scheme implementation in Rust
 
-- [Turtle](https://github.com/raviqqe/turtle-build)
-
-  Ninja-compatible build system for high-level programming languages
-
 - [Melior](https://mlir-rs.github.io/melior/melior/) ([GitHub](https://github.com/mlir-rs/melior))
 
   The rustic MLIR bindings for Rust
@@ -41,6 +37,10 @@ It is a software engineer.
 - [mfmt](https://github.com/raviqqe/mfmt)
 
   Meta formatter library in Rust
+
+- [Turtle](https://github.com/raviqqe/turtle-build)
+
+  Ninja-compatible build system for high-level programming languages
 
 - [bdwgc-rust](https://github.com/bdwgc/bdwgc-rust)
 
