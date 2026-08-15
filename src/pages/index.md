@@ -54,14 +54,6 @@ It is a software engineer.
 
   The _timeless_ functional programming language
 
-- [F\-\-](https://github.com/raviqqe/fmm)
-
-  The functional intermediate language with CPS transformation
-
-- [ssf](https://github.com/raviqqe/ssf)
-
-  The Structurally-typed Strict Functional intermediate language
-
 ### Web apps
 
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
