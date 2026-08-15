@@ -160,7 +160,7 @@ It is a software engineer.
 
 - ["Utilizing Visual Forms of Japanese Characters for Neural Review Classification"](https://aclanthology.org/I17-2064/) by Yota Toyama, Makoto Miwa, Yutaka Sasaki at IJCNLP 2017
 
-For other articles and slides, see [the documents page](https://raviqqe.com/doc/).
+For more articles and slides, see [the blog page](https://raviqqe.com/doc/).
 
 ## Technology Stack
 
