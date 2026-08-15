@@ -54,14 +54,6 @@ It is a software engineer.
 
   The _timeless_ functional programming language
 
-- [F--](https://github.com/raviqqe/fmm)
-
-  The functional intermediate language with CPS transformation
-
-- [ssf](https://github.com/raviqqe/ssf)
-
-  The Structurally-typed Strict Functional intermediate language
-
 ### Web apps
 
 - [BeDone](https://tasks.code2d.org) ([GitHub](https://github.com/raviqqe/tasks))
@@ -134,17 +126,21 @@ It is a software engineer.
 
   My dotfiles
 
-- [eslint-config](https://github.com/raviqqe/eslint-config)
-
-  ESLint configuration
-
 - [tsconfig](https://github.com/raviqqe/tsconfig)
 
-  TypeScript compiler configuration for my projects
+  TypeScript configuration
 
 - [react-tsconfig](https://github.com/raviqqe/react-tsconfig)
 
-  TypeScript compiler configuration for my React projects
+  TypeScript configuration for React
+
+- [biome-config](https://github.com/raviqqe/biome-config)
+
+  Biome configuration
+
+- [eslint-config](https://github.com/raviqqe/eslint-config)
+
+  ESLint configuration
 
 ### Miscellaneous
 
