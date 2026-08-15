@@ -26,10 +26,6 @@ It is a software engineer.
 
   No `std` and no `alloc` Scheme implementation in Rust
 
-- [F\-\-](https://github.com/raviqqe/fmm)
-
-  The functional intermediate language with CPS transformation
-
 - [Turtle](https://github.com/raviqqe/turtle-build)
 
   Ninja-compatible build system for high-level programming languages
@@ -57,6 +53,10 @@ It is a software engineer.
 - [Cloe](https://cloe-lang.org) ([GitHub](https://github.com/cloe-lang/cloe))
 
   The _timeless_ functional programming language
+
+- [F--](https://github.com/raviqqe/fmm)
+
+  The functional intermediate language with CPS transformation
 
 - [ssf](https://github.com/raviqqe/ssf)
 
@@ -108,9 +108,13 @@ It is a software engineer.
 
 ### Developer utilities
 
-- [muffet](https://github.com/raviqqe/muffet)
+- [Muffy](https://raviqqe.com/muffy) ([GitHub](https://github.com/raviqqe/muffy))
 
-  Fast website link checker in Go
+  The static website validator
+
+- [Muffet](https://raviqqe.com/muffet) ([GitHub](https://github.com/raviqqe/muffet))
+
+  The fast website link checker
 
 - [rnm](https://github.com/raviqqe/rnm)
 
