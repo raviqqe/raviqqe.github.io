@@ -1,12 +1,13 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { renderAsync } from "@resvg/resvg-js";
+import { iconSizes } from "../icon-sizes.ts";
 
-const svg = await readFile(new URL("../public/icon.svg", import.meta.url));
+const svg = await readFile(new URL("../../public/icon.svg", import.meta.url));
 
 await Promise.all(
-  [16, 32, 48, 64, 128, 256, 512, 1024].map(async (size) =>
+  iconSizes.map(async (size) =>
     writeFile(
-      new URL(`../public/icon-${size}.png`, import.meta.url),
+      new URL(`../../public/icon-${size}.png`, import.meta.url),
       (
         await renderAsync(svg, { fitTo: { mode: "width", value: size } })
       ).asPng(),
