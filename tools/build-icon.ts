@@ -1,5 +1,5 @@
-import { renderAsync } from "@resvg/resvg-js";
 import { readFile, writeFile } from "node:fs/promises";
+import { renderAsync } from "@resvg/resvg-js";
 
 const svg = await readFile(new URL("../public/icon.svg", import.meta.url));
 

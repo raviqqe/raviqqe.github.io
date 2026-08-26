@@ -5,7 +5,7 @@
   "scripts": {
     "start": "astro dev",
     "build": "node --run build:icon && astro build",
-    "build:icon": "tools/build_icon.sh",
+    "build:icon": "node tools/build-icon.ts",
     "preview": "astro preview",
     "lint": "biome ci"
   },
