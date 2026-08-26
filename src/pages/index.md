@@ -72,7 +72,7 @@ It is a software engineer.
 
   The AI-powered snappy English dictionary
 
-- [oneRPC](https://github.com/raviqqe/oneRPC)
+- [oneRPC](https://github.com/raviqqe/onerpc)
 
   The RPC library for the serverless and TypeScript era
 
