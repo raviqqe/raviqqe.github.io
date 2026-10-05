@@ -5,6 +5,11 @@
     {
       "src": "icon.svg",
       "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
       "purpose": "maskable"
     }
   ],
