@@ -4,24 +4,24 @@ import Layout from "./Default.astro";
 const { title, description } = Astro.props.frontmatter;
 ---
 
-<Layout title={title} description={description}>
+<Layout description={description} title={title}>
   <slot />
 </Layout>
 <style is:global>
-  :root {
-    color-scheme: light;
-  }
+:root {
+  color-scheme: light;
+}
 
-  a,
-  a:visited {
-    color: var(--red-color);
-  }
+a,
+a:visited {
+  color: var(--red-color);
+}
 
-  code {
-    background: var(--gray-color);
-    color: var(--white-color);
-    font-size: 0.85rem;
-    padding: 0.1rem 0.4rem;
-    border-radius: 0.3rem;
-  }
+code {
+  background: var(--gray-color);
+  color: var(--white-color);
+  font-size: 0.85rem;
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.3rem;
+}
 </style>

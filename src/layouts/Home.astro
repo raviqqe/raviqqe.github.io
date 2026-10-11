@@ -4,17 +4,17 @@ import Layout from "./Default.astro";
 const { title, description } = Astro.props.frontmatter;
 ---
 
-<Layout title={title} description={description}>
+<Layout description={description} title={title}>
   <slot />
 </Layout>
 <style is:global>
-  body {
-    background-color: var(--background-color);
-    color: var(--text-color);
-  }
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
 
-  a,
-  a:visited {
-    color: light-dark(teal, lightsalmon);
-  }
+a,
+a:visited {
+  color: light-dark(teal, lightsalmon);
+}
 </style>
