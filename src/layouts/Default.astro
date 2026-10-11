@@ -9,82 +9,78 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 <!doctype html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" sizes="any" href="/icon.svg" />
-    {
-      iconSizes.map((size) => (
-        <link
-          rel="icon"
-          type="image/png"
-          sizes={`${size}x${size}`}
-          href={`/icon-${size}.png`}
-        />
-      ))
-    }
-    <link rel="sitemap" href="/sitemap-index.xml" />
-    <meta name="description" content={description} />
+    <meta charset="utf-8">
+    <meta content="width=device-width" name="viewport">
+    <link href="/icon.svg" rel="icon" sizes="any" type="image/svg+xml">
+    {iconSizes.map((size) => (
+  <link
+    href={`/icon-${size}.png`}
+    rel="icon"
+    sizes={`${size}x${size}`}
+    type="image/png"
+  />
+))}
+    <link href="/sitemap-index.xml" rel="sitemap">
+    <meta content={description} name="description">
     <title>{title}</title>
-    <base target="_blank" />
-    <meta property="og:title" content={title} />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://raviqqe.com" />
-    <meta property="og:image" content="https://raviqqe.com/icon.svg" />
-    <meta property="og:description" content={description} />
-    <meta name="twitter:card" content="summary" />
-    <link rel="manifest" href="/manifest.json" />
-    <link rel="canonical" href={canonicalUrl} />
+    <base target="_blank">
+    <meta content={title} property="og:title">
+    <meta content="website" property="og:type">
+    <meta content="https://raviqqe.com" property="og:url">
+    <meta content="https://raviqqe.com/icon.svg" property="og:image">
+    <meta content={description} property="og:description">
+    <meta content="summary" name="twitter:card">
+    <link href="/manifest.json" rel="manifest">
+    <link href={canonicalUrl} rel="canonical">
     <script
-      defer
       data-domain="raviqqe.com"
+      defer
+      src="https://plausible.io/js/plausible.js"
       is:inline
-      src="https://plausible.io/js/plausible.js"></script>
+    ></script>
   </head>
   <body>
     <slot />
   </body>
 </html>
 <style is:global>
-  :root {
-    --pitch-black-color: black;
-    --black-color: #333;
-    --gray-color: #666;
-    --red-color: #d00;
-    --white-color: #fdfdfd;
+:root {
+  --pitch-black-color: black;
+  --black-color: #333;
+  --gray-color: #666;
+  --red-color: #d00;
+  --white-color: #fdfdfd;
 
-    --background-color: light-dark(
-      var(--white-color),
-      var(--pitch-black-color)
-    );
-    --text-color: light-dark(var(--black-color), var(--white-color));
+  --background-color: light-dark(var(--white-color), var(--pitch-black-color));
+  --text-color: light-dark(var(--black-color), var(--white-color));
 
-    --monospace-font-family: monospace;
+  --monospace-font-family: monospace;
 
-    color-scheme: light dark;
-    font:
-      16px "Noto Sans Variable",
-      sans-serif;
-  }
+  color-scheme: light dark;
+  font:
+    16px "Noto Sans Variable",
+    sans-serif;
+}
 
-  body {
-    background-color: var(--background-color);
-    color: var(--text-color);
-    max-width: 42rem;
-    margin: 0 auto;
-    padding: 1rem 1.2rem;
-  }
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 1rem 1.2rem;
+}
 
-  a,
-  a:visited {
-    text-decoration: underline;
-    text-decoration-thickness: 0.05rem;
-  }
+a,
+a:visited {
+  text-decoration: underline;
+  text-decoration-thickness: 0.05rem;
+}
 
-  a:hover {
-    text-decoration-thickness: 0.1rem;
-  }
+a:hover {
+  text-decoration-thickness: 0.1rem;
+}
 
-  code {
-    font-family: var(--monospace-font-family);
-  }
+code {
+  font-family: var(--monospace-font-family);
+}
 </style>
