@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "start": "astro dev",
     "build": "node --run build:icon && astro check && astro build",
     "build:icon": "node src/scripts/build-icon.ts",
-    "preview": "astro preview",
-    "lint": "biome ci"
+    "dev": "astro dev",
+    "lint": "biome ci",
+    "preview": "astro preview"
   },
   "dependencies": {
     "@astrojs/mdx": "^8.0.2",
