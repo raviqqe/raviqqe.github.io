@@ -9,7 +9,9 @@ const { title, description } = Astro.props.frontmatter;
 </Layout>
 <style is:global>
 :root {
-  color-scheme: light;
+  & > body {
+    color-scheme: light;
+  }
 }
 
 a,
