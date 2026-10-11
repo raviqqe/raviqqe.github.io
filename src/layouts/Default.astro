@@ -13,13 +13,13 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
     <meta content="width=device-width" name="viewport">
     <link href="/icon.svg" rel="icon" sizes="any" type="image/svg+xml">
     {iconSizes.map((size) => (
-  <link
-    href={`/icon-${size}.png`}
-    rel="icon"
-    sizes={`${size}x${size}`}
-    type="image/png"
-  />
-))}
+      <link
+        href={`/icon-${size}.png`}
+        rel="icon"
+        sizes={`${size}x${size}`}
+        type="image/png"
+      />
+    ))}
     <link href="/sitemap-index.xml" rel="sitemap">
     <meta content={description} name="description">
     <title>{title}</title>
