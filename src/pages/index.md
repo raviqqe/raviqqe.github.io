@@ -142,6 +142,10 @@ It is a software engineer.
 
   ESLint configuration
 
+- [zep](https://github.com/raviqqe/zep)
+
+  Simple Zsh prompt
+
 ### Miscellaneous
 
 - [TIL](https://github.com/raviqqe/til)
