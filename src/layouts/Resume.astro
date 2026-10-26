@@ -8,10 +8,8 @@ const { title, description } = Astro.props.frontmatter;
   <slot />
 </Layout>
 <style is:global>
-:root {
-  & > body {
-    color-scheme: light;
-  }
+:root > body {
+  color-scheme: light;
 }
 
 a,
