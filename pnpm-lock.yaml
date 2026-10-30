@@ -189,8 +189,8 @@ importers:
         specifier: ^2.5.15
         version: 2.5.15
       '@raviqqe/biome-config':
-        specifier: ^2.0.27
-        version: 2.0.27(@biomejs/biome@2.5.15)
+        specifier: ^2.0.28
+        version: 2.0.28(@biomejs/biome@2.5.15)
       '@resvg/resvg-js':
         specifier: ^2.6.2
         version: 2.6.2
@@ -839,8 +839,8 @@ packages:
   '@oxc-project/types@0.153.0':
     resolution: {integrity: sha512-jSNrRIyvPVLL5E1z/tS5zLAprosGz/FuI1PWwEOz59j3E4TTTzSpqKb/RDGqJhhW0QHYISGXxq582wGx6T11Tw==}
 
-  '@raviqqe/biome-config@2.0.27':
-    resolution: {integrity: sha512-UZWiCOgQDkUZb9qkJ9Y5rvlqjWMK/EIquQw31gs6RZbi1NiD0aWNCIJXAZiClfpl1faIy0Y6Bp7trlJx/SxYAA==}
+  '@raviqqe/biome-config@2.0.28':
+    resolution: {integrity: sha512-qs3eWBQx5TH07YuRN42uZSCtML5k9fUXsmTs5Tpu2oCNI+6TMhDop3PWiTfE5PD3WNpT/rHJMGEQ0ST2DXaxKQ==}
     engines: {node: '>=25.2.1'}
     peerDependencies:
       '@biomejs/biome': ^2.1.4
@@ -2585,7 +2585,7 @@ snapshots:
 
   '@oxc-project/types@0.153.0': {}
 
-  '@raviqqe/biome-config@2.0.27(@biomejs/biome@2.5.15)':
+  '@raviqqe/biome-config@2.0.28(@biomejs/biome@2.5.15)':
     dependencies:
       '@biomejs/biome': 2.5.15
 
